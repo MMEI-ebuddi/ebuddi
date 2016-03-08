@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 1cf93d444e8cdaf4fa9e03e5e8fd99d6
+timeCreated: 1435601305
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Poster_BasicPPE
+    100002: Poster_Calendar_Carotene
+    100004: Poster_ChlorineHandwritten
+    100006: Poster_ClinicSetup
+    100008: Poster_DisinfectionWithChlorine
+    100010: Poster_Ebola_VirusDisease
+    100012: Poster_Handwash
+    100014: Poster_HowToHandwash
+    100016: Poster_HumanBody
+    100018: Poster_IsolationArea
+    100020: Poster_Malaria
+    100022: Poster_PriorityDiseases
+    100024: Poster_ProtectYourself
+    100026: Poster_UNFPA_Childbirth
+    100028: //RootNode
+    400000: Poster_BasicPPE
+    400002: Poster_Calendar_Carotene
+    400004: Poster_ChlorineHandwritten
+    400006: Poster_ClinicSetup
+    400008: Poster_DisinfectionWithChlorine
+    400010: Poster_Ebola_VirusDisease
+    400012: Poster_Handwash
+    400014: Poster_HowToHandwash
+    400016: Poster_HumanBody
+    400018: Poster_IsolationArea
+    400020: Poster_Malaria
+    400022: Poster_PriorityDiseases
+    400024: Poster_ProtectYourself
+    400026: Poster_UNFPA_Childbirth
+    400028: //RootNode
+    2300000: Poster_BasicPPE
+    2300002: Poster_Calendar_Carotene
+    2300004: Poster_ChlorineHandwritten
+    2300006: Poster_ClinicSetup
+    2300008: Poster_DisinfectionWithChlorine
+    2300010: Poster_Ebola_VirusDisease
+    2300012: Poster_Handwash
+    2300014: Poster_HowToHandwash
+    2300016: Poster_HumanBody
+    2300018: Poster_IsolationArea
+    2300020: Poster_Malaria
+    2300022: Poster_PriorityDiseases
+    2300024: Poster_ProtectYourself
+    2300026: Poster_UNFPA_Childbirth
+    3300000: Poster_BasicPPE
+    3300002: Poster_Calendar_Carotene
+    3300004: Poster_ChlorineHandwritten
+    3300006: Poster_ClinicSetup
+    3300008: Poster_DisinfectionWithChlorine
+    3300010: Poster_Ebola_VirusDisease
+    3300012: Poster_Handwash
+    3300014: Poster_HowToHandwash
+    3300016: Poster_HumanBody
+    3300018: Poster_IsolationArea
+    3300020: Poster_Malaria
+    3300022: Poster_PriorityDiseases
+    3300024: Poster_ProtectYourself
+    3300026: Poster_UNFPA_Childbirth
+    4300000: Poster_UNFPA_Childbirth
+    4300002: Poster_ProtectYourself
+    4300004: Poster_HumanBody
+    4300006: Poster_Ebola_VirusDisease
+    4300008: Poster_Calendar_Carotene
+    4300010: Poster_DisinfectionWithChlorine
+    4300012: Poster_ChlorineHandwritten
+    4300014: Poster_PriorityDiseases
+    4300016: Poster_IsolationArea
+    4300018: Poster_ClinicSetup
+    4300020: Poster_HowToHandwash
+    4300022: Poster_Handwash
+    4300024: Poster_Malaria
+    4300026: Poster_BasicPPE
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

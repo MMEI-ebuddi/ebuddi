@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 4.11
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: c139996b0a9574ea794b1baad5c15d3d, type: 3}
+  script: You must wear enhanced PPE when you come into contact with an Ebola patient
+    or if you are cleaning bodily fluids. Like in the isolation area or the delivery
+    room. You will also need enhanced PPE if you will be cleaning spills of bodily
+    fluids such as sweat, blood, urine, vomit or poo poo. You will also need to wear
+    enhanced PPE if you are cleaning or managing waste from isolation areas such as
+    soiled bedsheets.

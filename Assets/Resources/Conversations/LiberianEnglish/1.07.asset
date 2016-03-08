@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 1.07
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 3d6d75c2da8ae46ef851e08610f33cf4, type: 3}
+  script: 'You must be careful of sharps because they can easily be infected.
+
+    If you prick yourself with the sharp you can transmit the virus to yourself. Always
+    use a sharps bin. Remember not to over fill the sharps bin. This would be very
+    dangerous.'

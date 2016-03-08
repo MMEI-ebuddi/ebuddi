@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 1.03
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 50b410822e9244300b43020588534eec, type: 3}
+  script: "As you can see the virus is found in all bodily fluids like vomit.\n  \nYou
+    cannot see the virus in the vomit as it is very small. It still looks like any
+    other vomit. It may be hard to tell if a patient has Ebola. So you must be very
+    careful at all times.\n\nYou can catch the virus through any contact with the
+    bodily fluids of a positive Ebola patient. Click on each of the red dots to learn
+    about areas on the patient where you can easily catch Ebola. All bodily fluids
+    are dangerous and even when the bodily fluids are on the bed clothes or the floor
+    they are infectious and you must not touch with bear hands."

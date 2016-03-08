@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 8.14.T
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 618f9df6edcf84ef980793d9423e0810, type: 3}
+  script: "Well done, you have successfully removed your PPE. Let\u2019s just try
+    again to make sure. \n\nCongratulations, you have successfully removed your basic
+    PPE, and completed this section of the module. If you would like to try again,
+    you can return to the menu and use the posters to choose where to go next. Well
+    done!\n\nThat\u2019s not the right item to take off now! It\u2019s important to
+    take your kit off in the right order to keep safe. Have a look at the checklist
+    to make sure you know the order, and when you are ready, try again."

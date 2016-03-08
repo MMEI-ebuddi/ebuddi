@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 1.10
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 03ba537091c8445d7988aa9d4dd8bd6c, type: 3}
+  script: So we know that the virus is very small and that it is in the bodily fluids
+    of patients.  Do you know how the virus can enter your body if you are not protected?  Please
+    show me the places on the body where you can be infected most easily by clicking
+    on the red dots.

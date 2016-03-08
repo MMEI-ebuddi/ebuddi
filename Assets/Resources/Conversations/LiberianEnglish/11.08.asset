@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.08
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 591ca8cd0998c4c7895967b39b35f330, type: 3}
+  script: "Take off your outer gloves very slowly and carefully. \n\nPinch the outside
+    of the gloves at the wrist. Peel the glove carefully and slowly away from your
+    hand. Slide your index finger inside the other glove and take it off. Do not touch
+    the outside of the gloves with your inner gloved hands. Be careful your gloves
+    are very very dirty.\n\nTrainee:\nDo you see how I avoid touching my inner glove
+    with my outer glove? \nMy outer glove is likely to be infected. "

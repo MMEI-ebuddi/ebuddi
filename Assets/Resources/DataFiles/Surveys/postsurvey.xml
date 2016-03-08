@@ -1,0 +1,170 @@
+<questions>	
+	<question> <!-- The module was useful for my role as a health / community worker-->
+		<text>The module was useful for my role as a health / community worker</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>			
+	<question> <!-- The module improved my understanding of Ebola-->
+		<text>The module improved my understanding of Ebola</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- The training module is relevant to my practice-->
+		<text>The training module is relevant to my practice</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>			
+	<question> <!-- I am confident in being able to put on personal protective equipment (PPE) in my role-->
+		<text>I am confident in being able to put on personal protective equipment (PPE) in my role</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>			
+	<question> <!-- I am confident  in being able to take off personal protective equipment safely-->
+		<text>I am confident  in being able to take off personal protective equipment safely</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- I am confident  in being able to use PPE so that I can care for patients with Ebola safely-->
+		<text>I am confident  in being able to use PPE so that I can care for patients with Ebola safely</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- I am likely to change the way in which I use PPE as a result of this training-->
+		<text>I am likely to change the way in which I use PPE as a result of this training</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- I would you recommend this training to my colleagues-->
+		<text>I would recommend this training to my colleagues</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- Do you have any other feedback from the training?-->
+		<text>Do you have any other feedback from the training?</text>
+		<answers>
+			<answer type="text">				
+				<text>Please comment</text>
+			</answer>			
+		</answers>
+	</question>		
+</questions> 

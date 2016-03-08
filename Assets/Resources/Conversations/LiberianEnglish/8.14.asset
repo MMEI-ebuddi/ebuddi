@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 8.14
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 312f8cc1f30254791ac65a1a5e53d39a, type: 3}
+  script: Now we have been through the steps to remove your PPE, it is your turn to
+    watch your friend removing theirs. Tell them which steps to take by selecting
+    the icon from the menu. Remember, the order you take your PPE off in is important
+    to help stop infection spread.. What is the first thing your colleague needs to
+    do in order to remove their PPE safely?

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.16
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 345fc344726d04da785c10d738a452c3, type: 3}
+  script: "Bend forwards. This will stop any drops falling on your body. Close your
+    eyes. \nMove the face shield away from your face. Place the face shield carefully
+    in the disposable waste bin.\n\nTrainee:\nI am tilting my head forwards to protect
+    my eyes and face from any drips from the face shield.\nSee how I keep my hands
+    away from my face."

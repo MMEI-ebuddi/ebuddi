@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.30.T
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 54e78869a94e041ecaf342236d593a75, type: 3}
+  script: "Well done. You have safely removed your PPE.\n\nLet\u2019s just try it
+    again to make sure\n\nCongratulations, you have successfully removed your enhanced
+    PPE, and completed the doffing section. If you would like to retry any of the
+    sections in this simulation, you can return to the menu and use the posters to
+    choose where to go. Well done!\n\nThat\u2019s not the right item to take off now!
+    It\u2019s important to take your kit off in the correct order to ensure maximum
+    protection. Have a look at the checklist to make sure you know the order, and
+    when you are ready, try again."

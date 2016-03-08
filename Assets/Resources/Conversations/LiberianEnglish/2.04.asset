@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 2.04
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: ef097967227f943a8a4ec60e651a959b, type: 3}
+  script: "Poor infection prevention and control can lead to infections among other
+    patients, the closure of healthcare facilities and slowdown of essential services
+    such as vaccinations and maternity care.\n\nThe following actions will show how
+    quickly infection can spread in a health facility if we do not use infection prevention
+    and control.\n\nThis module will then show how we can prevent the spread of infection
+    by using basic infection prevention and control procedures.\n\nWe can keep ourselves
+    safe so that we can keep serving our patients and keep them safe. \n\nIn the second
+    part of this module we are going to use infection prevention and control procedures.\nWe
+    have introduced an automatic 3 foot safe no touch zone around the patients.\nWe
+    have made one of the rooms in the clinic an isolation unit.\nThis is where we
+    will put all suspected infected patients.\nIf you click on the healthcare worker
+    he or she will put on PPE.\nIf you click on the cleaner he or she will also wear
+    PPE.\nFinally, if you click on an infected patient in the triage area he or she
+    will go to the isolation ward for special care.\n\nNotice how quickly we can reduce
+    the rate of infection spreading by using standard infection prevention and control
+    measures.\nSee how a lot of infection happens outside the health centre. \nIt
+    is very important that public health messages are used to prevent infection spreading
+    through normal contacts. Why not go through the module again."

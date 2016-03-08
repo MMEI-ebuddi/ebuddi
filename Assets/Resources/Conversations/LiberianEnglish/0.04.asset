@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 0.04
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 8a9b9ee9ce7c74557869925c9cb5198f, type: 3}
+  script: 'The posters on the wall will guide you.
+
+    Click the posters from left to right and I will tell you what they mean. Click
+    on the green arrow to continue.
+
+
+    When you complete a section, the poster will light up. You can always go back
+    and repeat the module. Click on the green arrow to go forward.'
