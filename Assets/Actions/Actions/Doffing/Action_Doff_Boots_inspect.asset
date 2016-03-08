@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4536b44586fae4ab0ccad8c0816bdb, type: 3}
+  m_Name: Action_Doff_Boots_inspect
+  m_EditorClassIdentifier: 
+  Action: 3
+  Item: 13
+  Category: 3
+  Image: {fileID: 21300000, guid: 1b2a65d1343efc74c97f32cdbfcf8516, type: 3}
+  Name: Boots
+  WashHandsAter: 1
+  Automatic: 0
+  Optional: 0
+  HiddenInItemList: 0
+  rightWrongSet: []
+  conversationId: 
+  basicPPEselectConversation: {fileID: 0}
+  basicPPEanimationConversation: {fileID: 0}
+  enchancedPPEselectConversation: {fileID: 11400000, guid: 0806e25de69264bbb8e96205c08d785e,
+    type: 2}
+  enchancedPPEanimationConversation: {fileID: 11400000, guid: 9eb8bad532e7c4516907c03d4cbacb32,
+    type: 2}

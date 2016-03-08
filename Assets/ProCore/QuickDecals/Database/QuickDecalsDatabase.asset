@@ -1,0 +1,714 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bfeb40e027395d45a5545d3b06bcea6, type: 3}
+  m_Name: QuickDecalsDatabase
+  m_EditorClassIdentifier: 
+  decalGroups:
+  - decals:
+    - name: 4_Parts of Body_1024_d
+      id: 661b469ec91d7ba43aa2af38a43046ba
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .800000012}
+      atlasRect:
+        serializedVersion: 2
+        x: .367431611
+        y: .604980528
+        width: .176757798
+        height: .25
+      orgGroup: 0
+      orgIndex: 0
+      atlasGroup: 0
+      atlasIndex: 3
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 661b469ec91d7ba43aa2af38a43046ba, type: 3}
+    - name: 3_Calendar_1024_d
+      id: 0c2ea1008ecaf7042bf4d610cfdfc03f
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .600000024}
+      atlasRect:
+        serializedVersion: 2
+        x: .190185502
+        y: 0
+        width: .176757798
+        height: .25
+      orgGroup: 0
+      orgIndex: 1
+      atlasGroup: 0
+      atlasIndex: 0
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 0c2ea1008ecaf7042bf4d610cfdfc03f, type: 3}
+    - name: 9_IsolationArea_1024_d
+      id: 68bca5c10c5a6314da011bb19f6cc7e9
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .544677675
+        y: 0
+        width: .25
+        height: .176757798
+      orgGroup: 0
+      orgIndex: 2
+      atlasGroup: 0
+      atlasIndex: 5
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 68bca5c10c5a6314da011bb19f6cc7e9, type: 3}
+    - name: 2_Protect Yourself_1024_d
+      id: fb3cf285f264d614d937449f55897225
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .367431611
+        y: 0
+        width: .176757798
+        height: .25
+      orgGroup: 0
+      orgIndex: 3
+      atlasGroup: 0
+      atlasIndex: 1
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: fb3cf285f264d614d937449f55897225, type: 3}
+    - name: 12_MalariaGetTested_1024_d
+      id: 8ac26ec75cdfdae4398c15df36571795
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .400000006}
+      atlasRect:
+        serializedVersion: 2
+        x: .617919922
+        y: .250488311
+        width: .25
+        height: .176757798
+      orgGroup: 0
+      orgIndex: 4
+      atlasGroup: 0
+      atlasIndex: 11
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 8ac26ec75cdfdae4398c15df36571795, type: 3}
+    - name: 14_BasicPPE_1024_d
+      id: 7fafd6363a81b0a4ea88ce0ea2a357ff
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .699999988}
+      atlasRect:
+        serializedVersion: 2
+        x: .544677675
+        y: .604980528
+        width: .174804702
+        height: .25
+      orgGroup: 0
+      orgIndex: 5
+      atlasGroup: 0
+      atlasIndex: 2
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 7fafd6363a81b0a4ea88ce0ea2a357ff, type: 3}
+    - name: 10_ClinicSetup_1024_d
+      id: 2a66578694d81634587af56f79739357
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .795166016
+        y: 0
+        width: .176757798
+        height: .25
+      orgGroup: 0
+      orgIndex: 6
+      atlasGroup: 0
+      atlasIndex: 4
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 2a66578694d81634587af56f79739357, type: 3}
+    - name: 1_UNFPA_1024_d
+      id: d91ff2f6a51ec9642852c30608899cc7
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: 0
+        y: .250488311
+        width: .181640595
+        height: .25
+      orgGroup: 0
+      orgIndex: 7
+      atlasGroup: 0
+      atlasIndex: 13
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: d91ff2f6a51ec9642852c30608899cc7, type: 3}
+    - name: 8_Diseases_1024_d
+      id: 56c52fe82eb0c084a9eb8e54bf5bce4f
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: 0
+        y: .500976622
+        width: .177001998
+        height: .25
+      orgGroup: 0
+      orgIndex: 8
+      atlasGroup: 0
+      atlasIndex: 6
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 56c52fe82eb0c084a9eb8e54bf5bce4f, type: 3}
+    - name: 6_EBolaVirusDisease_1024_d
+      id: 077c9a9939b32ca4ba1c0a5e7ef219ad
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .190185502
+        y: .250488311
+        width: .176757798
+        height: .25
+      orgGroup: 0
+      orgIndex: 9
+      atlasGroup: 0
+      atlasIndex: 7
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 077c9a9939b32ca4ba1c0a5e7ef219ad, type: 3}
+    - name: 11_Pneumonia_1024_d
+      id: 227be3bb5f1c6384989353e770a2555d
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .190185502
+        y: .500976622
+        width: .176757798
+        height: .25
+      orgGroup: 0
+      orgIndex: 10
+      atlasGroup: 0
+      atlasIndex: 8
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 227be3bb5f1c6384989353e770a2555d, type: 3}
+    - name: 13_HowToHandwash_1024_d
+      id: cf31029cffe19ad49a8e8d66c0c32898
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .699999988}
+      atlasRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: .189697295
+        height: .25
+      orgGroup: 0
+      orgIndex: 11
+      atlasGroup: 0
+      atlasIndex: 9
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: cf31029cffe19ad49a8e8d66c0c32898, type: 3}
+    - name: 7_Chlorine_Handwritten_1024_d
+      id: 5b8a0d7ef80b84441a975fca1245bd5e
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .367431611
+        y: .250488311
+        width: .25
+        height: .176757798
+      orgGroup: 0
+      orgIndex: 12
+      atlasGroup: 0
+      atlasIndex: 10
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 5b8a0d7ef80b84441a975fca1245bd5e, type: 3}
+    - name: 5_Chlorine_1024_d
+      id: 2fba53bfd6094f545871a3468c69417b
+      isPacked: 1
+      materialId: 
+      rotation: {x: -45, y: 45, z: 0}
+      scale: {x: .800000012, y: 1.20000005, z: .5}
+      atlasRect:
+        serializedVersion: 2
+        x: .367431611
+        y: .427734405
+        width: .25
+        height: .176757798
+      orgGroup: 0
+      orgIndex: 13
+      atlasGroup: 0
+      atlasIndex: 12
+      rotationPlacement: 0
+      scalePlacement: 0
+      texture: {fileID: 2800000, guid: 2fba53bfd6094f545871a3468c69417b, type: 3}
+    name: 
+    shader: {fileID: 0}
+    isPacked: 0
+    material: {fileID: 0}
+    maxAtlasSize: 0
+    padding: 0
+  s_decals:
+  - '{
+
+    4_Parts of Body_1024_d
+
+    661b469ec91d7ba43aa2af38a43046ba
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.8)
+
+    (0.3674316, 0.6049805, 0.1767578, 0.25)
+
+    0
+
+    0
+
+    0
+
+    3
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    3_Calendar_1024_d
+
+    0c2ea1008ecaf7042bf4d610cfdfc03f
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.6)
+
+    (0.1901855, 0, 0.1767578, 0.25)
+
+    0
+
+    0
+
+    1
+
+    0
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    9_IsolationArea_1024_d
+
+    68bca5c10c5a6314da011bb19f6cc7e9
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.5446777, 0, 0.25, 0.1767578)
+
+    0
+
+    0
+
+    2
+
+    5
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    2_Protect Yourself_1024_d
+
+    fb3cf285f264d614d937449f55897225
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.3674316, 0, 0.1767578, 0.25)
+
+    0
+
+    0
+
+    3
+
+    1
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    12_MalariaGetTested_1024_d
+
+    8ac26ec75cdfdae4398c15df36571795
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.4)
+
+    (0.6179199, 0.2504883, 0.25, 0.1767578)
+
+    0
+
+    0
+
+    4
+
+    11
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    14_BasicPPE_1024_d
+
+    7fafd6363a81b0a4ea88ce0ea2a357ff
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.7)
+
+    (0.5446777, 0.6049805, 0.1748047, 0.25)
+
+    0
+
+    0
+
+    5
+
+    2
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    10_ClinicSetup_1024_d
+
+    2a66578694d81634587af56f79739357
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.795166, 0, 0.1767578, 0.25)
+
+    0
+
+    0
+
+    6
+
+    4
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    1_UNFPA_1024_d
+
+    d91ff2f6a51ec9642852c30608899cc7
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0, 0.2504883, 0.1816406, 0.25)
+
+    0
+
+    0
+
+    7
+
+    13
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    8_Diseases_1024_d
+
+    56c52fe82eb0c084a9eb8e54bf5bce4f
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0, 0.5009766, 0.177002, 0.25)
+
+    0
+
+    0
+
+    8
+
+    6
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    6_EBolaVirusDisease_1024_d
+
+    077c9a9939b32ca4ba1c0a5e7ef219ad
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.1901855, 0.2504883, 0.1767578, 0.25)
+
+    0
+
+    0
+
+    9
+
+    7
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    11_Pneumonia_1024_d
+
+    227be3bb5f1c6384989353e770a2555d
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.1901855, 0.5009766, 0.1767578, 0.25)
+
+    0
+
+    0
+
+    10
+
+    8
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    13_HowToHandwash_1024_d
+
+    cf31029cffe19ad49a8e8d66c0c32898
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.7)
+
+    (0, 0, 0.1896973, 0.25)
+
+    0
+
+    0
+
+    11
+
+    9
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    7_Chlorine_Handwritten_1024_d
+
+    5b8a0d7ef80b84441a975fca1245bd5e
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.3674316, 0.2504883, 0.25, 0.1767578)
+
+    0
+
+    0
+
+    12
+
+    10
+
+    0
+
+    0
+
+    True
+
+    }'
+  - '{
+
+    5_Chlorine_1024_d
+
+    2fba53bfd6094f545871a3468c69417b
+
+    (-45.0, 45.0, 0.0)
+
+    (0.8, 1.2, 0.5)
+
+    (0.3674316, 0.4277344, 0.25, 0.1767578)
+
+    0
+
+    0
+
+    13
+
+    12
+
+    0
+
+    0
+
+    True
+
+    }'
+  names:
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  - Posters_Atlas_1
+  isPacked: 0101010101010101010101010101
+  materials:
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  - f8df3a36d4a55384ab5771be716adf4b
+  shaders:
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  - Legacy Shaders/Transparent/Diffuse
+  atlasSize: 0004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000
+  padding: 0200000002000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000

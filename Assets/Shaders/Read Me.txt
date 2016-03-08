@@ -1,0 +1,58 @@
+-- Mixamo Shader Package --
+
+Thanks for downloading the Mixamo Shader Package. Here's some info to help get you started using
+these shaders effectively.
+
+* All shaders use Diffuse, Specular, Gloss, and Normal maps.
+* "Transparent" shaders have alpha enabled, and are single-pass unless otherwise noted.
+* "MultiPass" shaders draw multiple times, and solve common sorting issues 
+  (good for polystrip hair), at the expense of draw calls.
+* Please note: We use the term "Specular" to mean the intensity of the specular highlight, 
+  whereas "Gloss" controls the size of the specular highlight. This differs from Unity's interpretation
+  of these terms, in that their definitions are reversed. If you have authored either of these maps for
+  one environment, but plan to use them in the other, it may be helpful to be aware of this discrepancy.
+
+1. Bump Spec Gloss
+  * This shader is very similar to Unity's built-in "Bumped Specular" shader, with the addition of 
+    a Gloss map, and a separate Specular map.
+
+2. Cook Torrance
+  * This shader is more algorithmically expensive than "Bump Spec Gloss," but has a more
+    realistic lighting model.
+  * This shader is most similar to Mixamo Fuse's internal lighting model.
+
+3. Toon
+  * Each channel (RGB) of the "Ramp Threshold" parameter controls the position of a corresponding "step." 
+    The steps are responsible for creating the "Toon" effect, and light the model in discrete increments. 
+  * Each channel of the "Ramp Values" parameter then controls the relative intensity of the 
+    corresponding step.
+  * The "Ramp Blend" parameter controls the softness of the step functions. At a value of 0, the 
+    cutoff is very abrupt, with no interpolation between step values. At higher values, the transition 
+    is more gradual, and approaches a standard diffuse gradient. Very small values
+    work best for the toon effect, with the default being somewhere in the 0.08 range.
+  * The "Outline Color" and "Outline Width" parameters control the appearance of the outline. 
+    The outline can also be controlled via vertex color, if available. In this case, set the 
+    Outline Color to white, as the vertex color and outline color are multiplied together. An outline
+    width of 0 will remove the outline.
+
+4. Mobile/Bump Spec Gloss
+  * Optimized for Mobile Performance. Similar to Unity's builtin "Mobile/Bumped Specular" shader, 
+    but with Gloss and a separate Specular map.
+
+5. Transparent/Bump Spec Gloss
+
+6. Transparent/Bump Spec Gloss Multipass
+
+7. Transparent/Cook Torrance
+
+8. Transparent/Cook Torrance Multipass
+
+9. Transparent/Hair Multipass
+  * The "Groove" Parameter controls the spread of an anisotropic specular highlight. It is otherwise 
+    very similar to the Bump Spec Gloss Multipass shader.
+
+10. Transparent/Toon
+
+11. Transparent/Toon Multipass
+
+

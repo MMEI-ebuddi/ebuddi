@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4536b44586fae4ab0ccad8c0816bdb, type: 3}
+  m_Name: Action_Doff_OuterGloves
+  m_EditorClassIdentifier: 
+  Action: 1
+  Item: 12
+  Category: 6
+  Image: {fileID: 21300000, guid: 4479541dc8cac35488bb457d824d1bd1, type: 3}
+  Name: Outer Gloves
+  WashHandsAter: 1
+  Automatic: 0
+  Optional: 0
+  HiddenInItemList: 0
+  rightWrongSet: []
+  conversationId: 
+  basicPPEselectConversation: {fileID: 0}
+  basicPPEanimationConversation: {fileID: 0}
+  enchancedPPEselectConversation: {fileID: 11400000, guid: a143290d5c22043f4a2f8bc12bedeb11,
+    type: 2}
+  enchancedPPEanimationConversation: {fileID: 11400000, guid: 8da9950ebe1a548aebb5c9ac28493384,
+    type: 2}

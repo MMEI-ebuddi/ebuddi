@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4536b44586fae4ab0ccad8c0816bdb, type: 3}
+  m_Name: Action_Doff_FaceMask
+  m_EditorClassIdentifier: 
+  Action: 1
+  Item: 2
+  Category: 6
+  Image: {fileID: 21300000, guid: 8c24ae329fb36d44daddd9e248f34beb, type: 3}
+  Name: Face Mask
+  WashHandsAter: 1
+  Automatic: 0
+  Optional: 0
+  HiddenInItemList: 0
+  rightWrongSet:
+  - {fileID: 11423122, guid: 9fd02e3fc02c544dbb6d11fc686af571, type: 2}
+  conversationId: 
+  basicPPEselectConversation: {fileID: 0}
+  basicPPEanimationConversation: {fileID: 0}
+  enchancedPPEselectConversation: {fileID: 11400000, guid: d2613563c827545b986e47f86065bc93,
+    type: 2}
+  enchancedPPEanimationConversation: {fileID: 11400000, guid: aeb545ab79470422cb427814371a40f1,
+    type: 2}

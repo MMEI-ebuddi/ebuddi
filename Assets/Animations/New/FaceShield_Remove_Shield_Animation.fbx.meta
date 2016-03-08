@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: e3b6a4276cd635c40a5f56cd766bfe39
+timeCreated: 1432039184
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: hoodjoint1
+    100004: hoodjoint2
+    100006: hoodjoint3
+    100008: hoodjoint_bandL
+    100010: hoodjoint_bandL1
+    100012: hoodjoint_bandR
+    100014: hoodjoint_bandR1
+    100016: ShieldBasenode
+    400000: //RootNode
+    400002: hoodjoint1
+    400004: hoodjoint2
+    400006: hoodjoint3
+    400008: hoodjoint_bandL
+    400010: hoodjoint_bandL1
+    400012: hoodjoint_bandR
+    400014: hoodjoint_bandR1
+    400016: ShieldBasenode
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Triggered
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: hoodjoint1
+        weight: 1
+      - path: hoodjoint1/hoodjoint2
+        weight: 1
+      - path: hoodjoint1/hoodjoint2/hoodjoint3
+        weight: 1
+      - path: hoodjoint1/hoodjoint2/hoodjoint_bandL
+        weight: 1
+      - path: hoodjoint1/hoodjoint2/hoodjoint_bandL/hoodjoint_bandL1
+        weight: 1
+      - path: hoodjoint1/hoodjoint2/hoodjoint_bandR
+        weight: 1
+      - path: hoodjoint1/hoodjoint2/hoodjoint_bandR/hoodjoint_bandR1
+        weight: 1
+      - path: ShieldBasenode
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

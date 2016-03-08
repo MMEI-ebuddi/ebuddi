@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4536b44586fae4ab0ccad8c0816bdb, type: 3}
+  m_Name: Action_Don_ReusableApron
+  m_EditorClassIdentifier: 
+  Action: 0
+  Item: 9
+  Category: 2
+  Image: {fileID: 21300000, guid: 4021591474410d3479d66444e45988f7, type: 3}
+  Name: Apron
+  WashHandsAter: 0
+  Automatic: 0
+  Optional: 0
+  HiddenInItemList: 0
+  rightWrongSet: []
+  conversationId: 
+  basicPPEselectConversation: {fileID: 0}
+  basicPPEanimationConversation: {fileID: 0}
+  enchancedPPEselectConversation: {fileID: 11400000, guid: a1213d9c7f8c14c1c8953294e59625c5,
+    type: 2}
+  enchancedPPEanimationConversation: {fileID: 11400000, guid: 174c44ab1cfd8443f83450b10c486e77,
+    type: 2}

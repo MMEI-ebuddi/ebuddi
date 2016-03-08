@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &181986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 412574}
+  - 114: {fileID: 11423122}
+  m_Layer: 0
+  m_Name: DoffGoogles1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &412574
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11423122
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc43614cca74c43b5b1a2e951fe0a32a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  correctImage: {fileID: 2800000, guid: f685788206469488b88604ca7987cc82, type: 3}
+  incorrectImage: {fileID: 2800000, guid: b0039b1a232ef4c40b208f61fc3d5b3d, type: 3}
+  question: What is the correct way to take off the gogles?
+  type: 0
+  isLastQuestion: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: images.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: sourceImage
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[0]
+      value: 
+      objectReference: {fileID: 2800000, guid: c70396ac9226fd249954f52dedb80ed3, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[1]
+      value: 
+      objectReference: {fileID: 2800000, guid: ee339fd022cd784479ccf4787a9c73fd, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[2]
+      value: 
+      objectReference: {fileID: 2800000, guid: f6be50bf7a0353340a6165f16243d0cb, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[3]
+      value: 
+      objectReference: {fileID: 2800000, guid: f28bb2f3005fa5b409d4828e0ff224bf, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[4]
+      value: 
+      objectReference: {fileID: 2800000, guid: 971d18c7e3dc28f4897caf651a031d48, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[5]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[6]
+      value: 
+      objectReference: {fileID: 2800000, guid: 919d6c7e92b041c459fb373629a3d795, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[7]
+      value: 
+      objectReference: {fileID: 2800000, guid: dcdd8619d2316f041959b9a8ca67e0bc, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[8]
+      value: 
+      objectReference: {fileID: 2800000, guid: 2dbc22cc4bee700419e9bd2fc680765e, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[9]
+      value: 
+      objectReference: {fileID: 2800000, guid: 6d22a8a4158f0b344bba1374a34891aa, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[10]
+      value: 
+      objectReference: {fileID: 2800000, guid: 7fe36eec8d6f93945a97cd0577aef197, type: 3}
+    - target: {fileID: 0}
+      propertyPath: images.Array.data[11]
+      value: 
+      objectReference: {fileID: 2800000, guid: df69e0e1ce9009a45afa23b323369cc5, type: 3}
+    - target: {fileID: 0}
+      propertyPath: Question
+      value: Handwashing
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: question
+      value: What is the correct way to take off the gogles?
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: correctImage
+      value: 
+      objectReference: {fileID: 2800000, guid: f685788206469488b88604ca7987cc82, type: 3}
+    - target: {fileID: 0}
+      propertyPath: incorrectImage
+      value: 
+      objectReference: {fileID: 2800000, guid: b0039b1a232ef4c40b208f61fc3d5b3d, type: 3}
+    - target: {fileID: 0}
+      propertyPath: isLastQuestion
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 181986}
+  m_IsPrefabParent: 1

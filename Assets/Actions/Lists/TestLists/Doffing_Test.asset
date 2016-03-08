@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae78f07fbc5057f4d8bf66de80c95d3a, type: 3}
+  m_Name: Doffing_Test
+  m_EditorClassIdentifier: 
+  ActionOrder:
+  - {fileID: 11400000, guid: d7ea7f3f5c02d4f2287ae752b7c5e258, type: 2}
+  - {fileID: 11400000, guid: ff5815fd4a8f33b459ca2bd3520a407d, type: 2}
+  ShowUnusedEquipment: 1
+  ActionWashHands: {fileID: 11400000, guid: ba27d436b38882641b83410034f96999, type: 2}

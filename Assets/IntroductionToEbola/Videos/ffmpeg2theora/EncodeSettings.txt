@@ -1,0 +1,3 @@
+v01 290715_0315
+
+ffmpeg2theora --no audio -V5000 --soft-target -v7 --two-pass [input]

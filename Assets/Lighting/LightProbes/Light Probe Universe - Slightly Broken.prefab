@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &116980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 418778}
+  m_Layer: 0
+  m_Name: Light Probe Universe - Slightly Broken
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &176028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 407644}
+  - 114: {fileID: 11440682}
+  - 220: {fileID: 22027214}
+  m_Layer: 0
+  m_Name: Light Probe Region
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &407644
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .579999983, y: 1.51999998, z: .211999997}
+  m_LocalScale: {x: .216222763, y: .0850000009, z: .152999938}
+  m_Children: []
+  m_Father: {fileID: 418778}
+  m_RootOrder: 0
+--- !u!4 &418778
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 116980}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 407644}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11440682
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3043536942d8e1847899d9ba4a059483, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hDensity: 10
+  wDensity: 10
+  dDensity: 10
+  Distribute: 0
+  ShowDensityField: 0
+--- !u!220 &22027214
+LightProbeGroup:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176028}
+  m_Enabled: 1
+  m_SourcePositions:
+  - {x: -10.4055033, y: -4.42195368, z: -11.4887304}
+  - {x: -17.6724091, y: -14.0464039, z: -8.4003067}
+  - {x: -19.4419785, y: -12.8693609, z: .731431067}
+  - {x: -16.0608158, y: -14.6992893, z: 13.1085558}
+  - {x: -5.03481722, y: -12.2398119, z: -10.6188345}
+  - {x: -12.733325, y: 1.18145263, z: -6.00000381}
+  - {x: -13.3689413, y: 2.4287982, z: 3.81837463}
+  - {x: -6, y: -14.8399677, z: 13.2974691}
+  - {x: 4, y: -14.4919605, z: -13.1898851}
+  - {x: 4, y: -14.3759546, z: -6.00000381}
+  - {x: 4, y: -13.7959404, z: 3.81837463}
+  - {x: 4, y: -14.3759546, z: 13.2974691}
+  - {x: 14.0463524, y: -13.8518677, z: -15.6315002}
+  - {x: 14, y: -14.0279417, z: -6.00000381}
+  - {x: 14, y: -13.7959404, z: 3.81837463}
+  - {x: 14, y: -14.4919605, z: 13.2974691}
+  - {x: -19.3613949, y: 2.18964744, z: -15.2977219}
+  - {x: -17.6724091, y: -8.60353374, z: -8.4003067}
+  - {x: -19.5460281, y: 1.28821158, z: 1.27728045}
+  - {x: -4.92255735, y: -6.47867155, z: -14.2296534}
+  - {x: -6, y: -6, z: -6.00000381}
+  - {x: -6, y: -6, z: 3.81837463}
+  - {x: -6, y: .479802012, z: 13.2974691}
+  - {x: 4, y: -8.49044704, z: -15.2624035}
+  - {x: 4, y: -6, z: -6.00000381}
+  - {x: 4, y: -6, z: 3.81837463}
+  - {x: 4, y: .479802012, z: 13.2974691}
+  - {x: 14.330349, y: -2.9133234, z: -15.5257053}
+  - {x: 14, y: -6, z: -6.00000381}
+  - {x: 14, y: -.388125718, z: 13.2974691}
+  - {x: -15.8656387, y: 1.02108598, z: -6.38355255}
+  - {x: -15.4783154, y: -2.74602556, z: 12.9202757}
+  - {x: -4.41789579, y: 4.21379662, z: -13.1898851}
+  - {x: -6, y: 1.61288023, z: -6.00000381}
+  - {x: -6, y: 4, z: 3.81837463}
+  - {x: 1.80632508, y: 4, z: -13.1359682}
+  - {x: 4, y: 4, z: -6.00000381}
+  - {x: 4, y: 4, z: 3.81837463}
+  - {x: 10.4829865, y: -14.5779133, z: -13.9230585}
+  - {x: 14, y: 4, z: -6.00000381}
+  - {x: -19.2294235, y: 14, z: -15.0650282}
+  - {x: -17.6724091, y: 14, z: -8.4003067}
+  - {x: -19.4968891, y: 14, z: 1.10356486}
+  - {x: -16.3568668, y: 12.5418129, z: 14.5548506}
+  - {x: -9.68102455, y: 14, z: -15.1071119}
+  - {x: -6, y: 8.33655834, z: -6.84859371}
+  - {x: -6, y: 8.33655834, z: 2.9697845}
+  - {x: -6, y: 14, z: 13.2974691}
+  - {x: 4, y: 14, z: -15.1071119}
+  - {x: 4, y: 14, z: -6.00000381}
+  - {x: 4, y: 14, z: 3.81837463}
+  - {x: 4, y: 14, z: 13.2974691}
+  - {x: 10.4658766, y: 5.52349091, z: -14.8187037}
+  - {x: 14.5472279, y: 14, z: -6.00000381}
+  - {x: 14.6840353, y: 14, z: 3.81837463}
+  - {x: 14.6384335, y: 14, z: 13.2974691}
+  - {x: 14.7130728, y: 11.858182, z: -15.084034}
+  - {x: 10.4829865, y: .0810464174, z: -14.9104538}
+  - {x: -19.3613949, y: -12.8474083, z: -15.1550035}
+  - {x: -14.9983854, y: -12.9013691, z: -13.8341188}
+  - {x: -10.0395689, y: -13.3061447, z: -8.01314831}
+  - {x: -3.02291131, y: 1.36536431, z: 2.60316062}
+  - {x: -2.38729501, y: 1.36536431, z: -7.21521854}
+  - {x: -13.3689413, y: -14.0860624, z: 3.81837463}
+  - {x: -12.733325, y: -14.5331964, z: -6.00000381}
+  - {x: -13.3689413, y: -6.93591166, z: 3.81837463}
+  - {x: -12.733325, y: -6.93591166, z: -6.00000381}
+  - {x: -3.08592796, y: -14.0839014, z: 3.81263113}
+  - {x: -2.38729501, y: -15.0188684, z: -7.21521854}
+  - {x: -3.02291131, y: -5.84285116, z: 2.60316062}
+  - {x: -2.38729501, y: -5.84285116, z: -7.21521854}
+  - {x: 10.4829865, y: -8.03026962, z: -14.9104538}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 116980}
+  m_IsPrefabParent: 1

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4536b44586fae4ab0ccad8c0816bdb, type: 3}
+  m_Name: Action_Don_Gown
+  m_EditorClassIdentifier: 
+  Action: 0
+  Item: 8
+  Category: 4
+  Image: {fileID: 21300000, guid: 590e4e3c27ecb2b44bd660d0be352842, type: 3}
+  Name: Gown
+  WashHandsAter: 0
+  Automatic: 0
+  Optional: 0
+  HiddenInItemList: 0
+  rightWrongSet:
+  - {fileID: 11423122, guid: c4fc61349223f4d2cb065d0cd42d083b, type: 2}
+  - {fileID: 11423122, guid: e4c9f05d918f94ecb90cb5eee0288b0c, type: 2}
+  conversationId: 
+  basicPPEselectConversation: {fileID: 11400000, guid: 8d41b93dcf5d44016b32a65b1fd3083f,
+    type: 2}
+  basicPPEanimationConversation: {fileID: 11400000, guid: fc0dee9210bf34623ab97315404f3dad,
+    type: 2}
+  enchancedPPEselectConversation: {fileID: 11400000, guid: 281e95674496340879ce38fe632bae29,
+    type: 2}
+  enchancedPPEanimationConversation: {fileID: 11400000, guid: fcf219d219c454862a303efae4ce24f2,
+    type: 2}
