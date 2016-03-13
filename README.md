@@ -33,7 +33,7 @@ You found this repo because You are awesome and want to contribute to the projec
 
 
 ##TODO list
-Overall todo list can be found on trello https://trello.com/b/I9UdACr9/todo the major focus of work at the moment is to complete the cleanup removing the initial prototype code from Phase 1 particularly the animation work whilst expanding the functionality into the mobile space and building upon the server analytics.
+Overall todo list can be found on trello https://trello.com/b/I9UdACr9/todo the major focus of work at the moment is to complete the cleanup removing the initial prototype code from Phase 2 particularly the animation work whilst expanding the functionality into the mobile space and building upon the server analytics.
 
 There are also some //TODO tags in the code. Feel free to refactor marked code.
 
