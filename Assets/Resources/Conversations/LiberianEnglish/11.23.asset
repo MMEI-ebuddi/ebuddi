@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.23
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: eefefb69648d743f6a7484071310fa64, type: 3}
+  script: "It is safer to remove your face mask without touching the front of the
+    mask. Bend forward. In case there is any liquid on the face mask. Close your eyes.
+    Remove the straps one by one, starting with the bottom strap. Next untie the top
+    tie of the mask and hold the mask away from your face. Never touch the front of
+    the facemask. Put the mask in the disposable waste bin. \n\nTrainee:\nI am tilting
+    my head forward and removing the face mask by untying the straps at the back of
+    my head."

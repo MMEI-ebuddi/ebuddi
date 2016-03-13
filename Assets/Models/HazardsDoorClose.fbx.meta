@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 5aabd1a41bcff47fb80d5105d3b23e57
+timeCreated: 1441829537
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: _Bed
+    100004: _group2
+    100006: _Pillow
+    100008: _Room_Hazards_Beams
+    100010: _Room_Hazards_Blocker
+    100012: _Room_Hazards_Door
+    100014: _Room_Hazards_Door1
+    100016: _Room_Hazards_WindowMeshes
+    100018: _Sheet
+    100020: _Table_Cloth
+    400000: //RootNode
+    400002: _Bed
+    400004: _group2
+    400006: _Pillow
+    400008: _Room_Hazards_Beams
+    400010: _Room_Hazards_Blocker
+    400012: _Room_Hazards_Door
+    400014: _Room_Hazards_Door1
+    400016: _Room_Hazards_WindowMeshes
+    400018: _Sheet
+    400020: _Table_Cloth
+    2300000: //RootNode
+    2300002: _Bed
+    2300004: _Pillow
+    2300006: _Room_Hazards_Beams
+    2300008: _Room_Hazards_Blocker
+    2300010: _Room_Hazards_Door
+    2300012: _Room_Hazards_Door1
+    2300014: _Room_Hazards_WindowMeshes
+    2300016: _Sheet
+    2300018: _Table_Cloth
+    3300000: //RootNode
+    3300002: _Bed
+    3300004: _Pillow
+    3300006: _Room_Hazards_Beams
+    3300008: _Room_Hazards_Blocker
+    3300010: _Room_Hazards_Door
+    3300012: _Room_Hazards_Door1
+    3300014: _Room_Hazards_WindowMeshes
+    3300016: _Sheet
+    3300018: _Table_Cloth
+    4300000: _Room_Hazards_Door
+    4300002: _Room_Hazards_WindowMeshes
+    4300004: _Room_Hazards_Beams
+    4300006: _Room_Hazards_Blocker
+    4300008: _Table_Cloth
+    4300010: _Sheet
+    4300012: _Bed
+    4300014: _Pillow
+    4300016: _Room_Hazards_Door1
+    7400000: Close
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Close
+      takeName: Take 001
+      firstFrame: 1071.83997
+      lastFrame: 1107.80005
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

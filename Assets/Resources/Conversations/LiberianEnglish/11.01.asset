@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.01
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: faecfa009822f48b0974457563413e54, type: 3}
+  script: "I am now going to help you take off your PPE safely.\nRemember you need
+    to be careful of your hands.\nKeep them away from your face at all times and below
+    your nipple line. \nIf you follow this rule at all times it will really reduce
+    the risk of you touching your face by mistake.\nYou must wash your gloves and
+    your hands many times."

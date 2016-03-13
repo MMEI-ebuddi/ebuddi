@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4536b44586fae4ab0ccad8c0816bdb, type: 3}
+  m_Name: Action_Preparation
+  m_EditorClassIdentifier: 
+  Action: 4
+  Item: 16
+  Category: 6
+  Image: {fileID: 21300000, guid: d789589f46279af4da2d20c1fe0a1660, type: 3}
+  Name: Jewelry
+  WashHandsAter: 0
+  Automatic: 0
+  Optional: 0
+  HiddenInItemList: 0
+  rightWrongSet: []
+  conversationId: 6.04
+  basicPPEselectConversation: {fileID: 11400000, guid: 215c1d8b823d64237b7b17c14063a271,
+    type: 2}
+  basicPPEanimationConversation: {fileID: 11400000, guid: 8e5de9483f85e4b6bb88602403769ed4,
+    type: 2}
+  enchancedPPEselectConversation: {fileID: 11400000, guid: c3cbde387ac8b47bdb3fbfa3abb02ba2,
+    type: 2}
+  enchancedPPEanimationConversation: {fileID: 11400000, guid: eada3c6843bf84d02b6b19dbbe5d8979,
+    type: 2}

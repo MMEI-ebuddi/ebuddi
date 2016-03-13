@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 202b158945a99e74d891ecf60cb3bbc3
+timeCreated: 1443490047
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Buttons
+    100002: //RootNode
+    100004: Thermometer Asymmetrical
+    100006: Thermometer
+    100008: ThermometerCase
+    400000: Buttons
+    400002: //RootNode
+    400004: Thermometer Asymmetrical
+    400006: Thermometer
+    400008: ThermometerCase
+    2300000: Buttons
+    2300002: //RootNode
+    2300004: Thermometer Asymmetrical
+    2300006: Thermometer
+    2300008: ThermometerCase
+    3300000: Buttons
+    3300002: //RootNode
+    3300004: Thermometer Asymmetrical
+    3300006: Thermometer
+    3300008: ThermometerCase
+    4300000: Thermometer
+    4300002: Thermometer Asymmetrical
+    4300004: Buttons
+    4300006: ThermometerCase
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 30
+    secondaryUVPackMargin: 8
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

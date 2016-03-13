@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 271e4f0a9f475f34686dc1bc11496513
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Covers
+    100004: Armature
+    100006: Root
+    100008: BedSingleDivan
+    100010: Bed
+    100012: Pillow
+    100014: Plane
+    100016: BedHIGH
+    100018: BedHIGH_MeshPart0
+    100020: BedHIGH_MeshPart1
+    100022: BedHIGH_MeshPart2
+    100024: BedHIGH_MeshPart3
+    100026: Sheet
+    100028: Cube
+    100030: Handwash
+    100032: Pot
+    100034: Table
+    100036: Tray
+    100038: SharpsBox
+    400000: //RootNode
+    400002: Covers
+    400004: Armature
+    400006: Root
+    400008: BedSingleDivan
+    400010: Bed
+    400012: Pillow
+    400014: Plane
+    400016: BedHIGH
+    400018: BedHIGH_MeshPart0
+    400020: BedHIGH_MeshPart1
+    400022: BedHIGH_MeshPart2
+    400024: BedHIGH_MeshPart3
+    400026: Sheet
+    400028: Cube
+    400030: Handwash
+    400032: Pot
+    400034: Table
+    400036: Tray
+    400038: SharpsBox
+    2300000: BedSingleDivan
+    2300002: Bed
+    2300004: Pillow
+    2300006: Plane
+    2300008: BedHIGH
+    2300010: BedHIGH_MeshPart0
+    2300012: BedHIGH_MeshPart1
+    2300014: BedHIGH_MeshPart2
+    2300016: BedHIGH_MeshPart3
+    2300018: Sheet
+    2300020: Cube
+    2300022: //RootNode
+    2300024: Handwash
+    2300026: Pot
+    2300028: Table
+    2300030: Tray
+    2300032: SharpsBox
+    3300000: BedSingleDivan
+    3300002: Bed
+    3300004: Pillow
+    3300006: Plane
+    3300008: BedHIGH
+    3300010: BedHIGH_MeshPart0
+    3300012: BedHIGH_MeshPart1
+    3300014: BedHIGH_MeshPart2
+    3300016: BedHIGH_MeshPart3
+    3300018: Sheet
+    3300020: Cube
+    3300022: //RootNode
+    3300024: Handwash
+    3300026: Pot
+    3300028: Table
+    3300030: Tray
+    3300032: SharpsBox
+    4300000: Bed_002
+    4300002: BedSingleDivan
+    4300004: Pillow
+    4300006: Bed
+    4300008: Plane
+    4300010: BedHIGH
+    4300012: BedHIGH_MeshPart0
+    4300014: BedHIGH_MeshPart1
+    4300016: BedHIGH_MeshPart2
+    4300018: BedHIGH_MeshPart3
+    4300020: Sheet
+    4300022: Cube
+    4300024: Table
+    4300026: Pot
+    4300028: Tray
+    4300030: Handwash
+    4300032: SharpsBox
+    7400004: Default Take
+    7400006: Focus
+    11100000: //RootNode
+    13700000: Root
+    13700002: BedSingleDivan
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 120
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

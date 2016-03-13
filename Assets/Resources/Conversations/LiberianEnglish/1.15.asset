@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 1.15
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: e701e2a0861b84946961174267508e7c, type: 3}
+  script: "You can also get infected from people who have died from Ebola.  You see
+    this person has died of Ebola. We are very sad.\nBut we must be careful because
+    the body will be highly infectious long after death. \nWe must not touch the body
+    without wearing enhanced PPE"

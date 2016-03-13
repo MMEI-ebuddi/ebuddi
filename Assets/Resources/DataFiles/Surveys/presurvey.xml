@@ -1,0 +1,183 @@
+<questions>	
+	<question> <!-- Place of training for today-->
+		<text>Place of training for today</text>
+		<answers>
+			<answer type="text">				
+				<text>Training location:</text>				
+			</answer>							
+		</answers>
+	</question>	
+	<question> <!-- Age-->
+		<text>Age</text>
+		<answers>
+			<answer type="text">				
+				<text>Age:</text>
+			</answer>							
+		</answers>
+	</question>	
+	<question> <!-- Nationality-->
+		<text>Nationality</text>
+		<answers>
+			<answer type="text">				
+				<text>Nationality:</text>
+			</answer>							
+		</answers>
+	</question>	
+	<question> <!-- Sex-->
+		<text>Sex</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Male</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Female</text>
+			</answer>						
+		</answers>
+	</question>	
+	<question> <!-- Preferred language-->
+		<text>Preferred language</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Krio</text>
+			</answer>
+			<answer type="toggle">				
+				<text>English</text>
+			</answer>	
+			<answer type="toggle_text">				
+				<text>Other</text>
+			</answer>				
+		</answers>
+	</question>	
+	<question> <!-- Current role / profession-->
+		<text>Current role / profession</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Health worker</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Assistant</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Community worker</text>
+			</answer>
+			<answer type="toggle_text">				
+				<text>Other</text>
+			</answer>					
+		</answers>
+	</question>	
+	<question> <!-- Location of your job-->
+		<text>Location of your job</text>
+		<answers>
+			<answer type="toggle">				
+				<text>National centre</text>
+			</answer>
+			<answer type="toggle">				
+				<text>District centre</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Public community</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Private clinic</text>
+			</answer>					
+		</answers>
+	</question>			
+	<question> <!-- I am confident in being able to put on personal protective equipment (PPE) in my role-->
+		<text>I am confident in being able to put on personal protective equipment (PPE) in my role</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- I am confident in being able to take off personal protective equipment safely-->
+		<text>I am confident in being able to take off personal protective equipment safely</text>
+		<answers>
+			<answer type="toggle">				
+				<text>Strongly disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Disagree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Not sure</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Agree</text>
+			</answer>
+			<answer type="toggle">				
+				<text>Strongly agree</text>
+			</answer>			
+		</answers>
+	</question>					
+	<question> <!-- Have you had previous training in the use of PPE?-->
+		<text>Have you had previous training in the use of PPE?</text>
+		<answers>
+			<answer type="toggle">					
+				<text>Yes</text>
+			</answer>
+			<answer type="toggle" skip="4">				
+				<text>No</text>				
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- When was the previous training?-->
+		<text>Previous Training Date</text>
+		<answers>
+			<answer type="text">					
+				<text>When was the previous training?</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- Who carried out the previous training?-->
+		<text>Previous Training Instructor</text>
+		<answers>
+			<answer type="text">					
+				<text>Who carried out the previous training?</text>
+			</answer>				
+		</answers>
+	</question>		
+	<question> <!-- Where was previous training?-->
+		<text>Previous Training Location</text>
+		<answers>
+			<answer type="toggle">					
+				<text>National centre</text>
+			</answer>		
+			<answer type="toggle">					
+				<text>Regional centre</text>
+			</answer>				
+			<answer type="toggle">					
+				<text>District centre</text>
+			</answer>		
+			<answer type="toggle">					
+				<text>Community</text>
+			</answer>			
+		</answers>
+	</question>		
+	<question> <!-- How was the training delivered?-->
+		<text>How was the training delivered?</text>
+		<answers>
+			<answer type="toggle">					
+				<text>Discussion</text>
+			</answer>		
+			<answer type="toggle">					
+				<text>PowerPoint lecture</text>
+			</answer>				
+			<answer type="toggle">					
+				<text>Workshop</text>
+			</answer>					
+		</answers>
+	</question>		
+</questions> 

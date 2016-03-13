@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 4.05
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 51e0fefc29a1e478780480163776ab41, type: 3}
+  script: "This is your storeroom. It is where you keep your clean PPE supplies. You
+    can see that there are many items to choose from. If you click on the equipment
+    I will explain what that item will protect.\n\nThe face shield protects your eyes
+    and face.\n\nGoggles protect your eyes and face and can be used instead of a face
+    shield. \n\nThe face mask protects your nose and mouth and can be worn with the
+    face shield or the goggles.\n\nThe hood protects the scalp, hair and neck. If
+    you have long hair you will need a head cover for your hair.\n\nGloves protect
+    the hands. You may need to wear an inner and outer glove for extra protection.
+    \nIf you are cleaning then the outer gloves should be the thick rubber cleaning
+    gloves.\n\nThe gown covers your upper body, skin and clothes.\n\nBoots protect
+    your feet and legs.\n\nClosed toe shoes protect your feet.\n\nAn apron will give
+    added protection for your upper body skin and clothes and should be worn if you
+    may be exposed to a lot of body fluids.\n\nIt is best to wear scrubs under your
+    PPE. "

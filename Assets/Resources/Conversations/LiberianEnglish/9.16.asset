@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 9.16
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 72859d0cd98d54335905f8499d99fb27, type: 3}
+  script: 'Now we need to check that all your PPE is correct. There should be no gaps.
+    This would be very dangerous. Ask your buddy to check your back. Can they see
+    any gaps? Is your PPE comfortable, you must be able to do your work well? Is it
+    secure? It must not come loose when you are doing your work. '

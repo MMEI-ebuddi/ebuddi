@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: fc553e6703cde514983a9c7a43b91390
+timeCreated: 1441739576
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _Room_Hazards_Door
+    100002: Ebola_Area_Bed
+    100004: Ebola_Area_Bed_Patient
+    100006: Ebola_Area_Door
+    100008: Ebola_Area_DoorFrame
+    100010: Ebola_Area_Table
+    100012: Ebola_Area_WaterBag
+    100014: //RootNode
+    400000: _Room_Hazards_Door
+    400002: Ebola_Area_Bed
+    400004: Ebola_Area_Bed_Patient
+    400006: Ebola_Area_Door
+    400008: Ebola_Area_DoorFrame
+    400010: Ebola_Area_Table
+    400012: Ebola_Area_WaterBag
+    400014: //RootNode
+    2300000: Ebola_Area_Bed
+    2300002: Ebola_Area_Bed_Patient
+    2300004: Ebola_Area_Door
+    2300006: Ebola_Area_DoorFrame
+    2300008: Ebola_Area_Table
+    2300010: Ebola_Area_WaterBag
+    3300000: Ebola_Area_Bed
+    3300002: Ebola_Area_Bed_Patient
+    3300004: Ebola_Area_Door
+    3300006: Ebola_Area_DoorFrame
+    3300008: Ebola_Area_Table
+    3300010: Ebola_Area_WaterBag
+    4300000: Ebola_Area_Door
+    4300002: Ebola_Area_Bed
+    4300004: Ebola_Area_Bed_Patient
+    4300006: Ebola_Area_DoorFrame
+    4300008: Ebola_Area_WaterBag
+    4300010: Ebola_Area_Table
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

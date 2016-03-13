@@ -1,0 +1,441 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BuddyTalkingFace
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 300
+        outSlope: 300
+        tangentMode: 10
+      - time: .333333343
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: -33.2999649
+        outSlope: -33.2999649
+        tangentMode: 10
+      - time: .833333313
+        value: 38.9000015
+        inSlope: 300
+        outSlope: 300
+        tangentMode: 10
+      - time: 1
+        value: 100
+        inSlope: 7.94993591
+        outSlope: 7.94993591
+        tangentMode: 10
+      - time: 1.16666663
+        value: 41.5499992
+        inSlope: -299.999969
+        outSlope: -299.999969
+        tangentMode: 10
+      - time: 1.33333337
+        value: 0
+        inSlope: -4.64990997
+        outSlope: -4.64990997
+        tangentMode: 10
+      - time: 1.5
+        value: 40
+        inSlope: 135.000031
+        outSlope: 135.000031
+        tangentMode: 10
+      - time: 1.66666663
+        value: 45
+        inSlope: -89.999939
+        outSlope: -89.999939
+        tangentMode: 10
+      - time: 1.83333337
+        value: 10
+        inSlope: -134.999954
+        outSlope: -134.999954
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: -30.0000076
+        outSlope: -30.0000076
+        tangentMode: 10
+      - time: 2.1500001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.MouthOpen
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 86.8000031
+        outSlope: 86.8000031
+        tangentMode: 10
+      - time: .5
+        value: 43.4000015
+        inSlope: 27.8600006
+        outSlope: 27.8600006
+        tangentMode: 10
+      - time: .833333313
+        value: 33.0400009
+        inSlope: -39.4500046
+        outSlope: -39.4500046
+        tangentMode: 10
+      - time: 1.16666663
+        value: 17.1000004
+        inSlope: -75.2099762
+        outSlope: -75.2099762
+        tangentMode: 10
+      - time: 1.33333337
+        value: 0
+        inSlope: 8.70003891
+        outSlope: 8.70003891
+        tangentMode: 10
+      - time: 1.5
+        value: 20
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.66666663
+        value: 0
+        inSlope: -30.0000286
+        outSlope: -30.0000286
+        tangentMode: 10
+      - time: 1.83333337
+        value: 10
+        inSlope: -2.0980835e-05
+        outSlope: -2.0980835e-05
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: -30.0000076
+        outSlope: -30.0000076
+        tangentMode: 10
+      - time: 2.1500001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.Smile
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 180
+        outSlope: 180
+        tangentMode: 10
+      - time: .166666672
+        value: 30
+        inSlope: 74.3249969
+        outSlope: 74.3249969
+        tangentMode: 10
+      - time: .833333313
+        value: 9.10000038
+        inSlope: 44.3250046
+        outSlope: 44.3250046
+        tangentMode: 10
+      - time: 1.16666663
+        value: 49.0999985
+        inSlope: -87.2999268
+        outSlope: -87.2999268
+        tangentMode: 10
+      - time: 1.33333337
+        value: 0
+        inSlope: -57.2999039
+        outSlope: -57.2999039
+        tangentMode: 10
+      - time: 1.5
+        value: 30
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.66666663
+        value: 0
+        inSlope: -45.0000458
+        outSlope: -45.0000458
+        tangentMode: 10
+      - time: 1.83333337
+        value: 15
+        inSlope: 89.9999847
+        outSlope: 89.9999847
+        tangentMode: 10
+      - time: 2
+        value: 30
+        inSlope: -54.9999275
+        outSlope: -54.9999275
+        tangentMode: 10
+      - time: 2.1500001
+        value: 0
+        inSlope: -199.999878
+        outSlope: -199.999878
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.Pout
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 2073732236
+      attribute: 1656241592
+      script: {fileID: 0}
+      classID: 137
+      customType: 20
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 3276483595
+      script: {fileID: 0}
+      classID: 137
+      customType: 20
+      isPPtrCurve: 0
+    - path: 2073732236
+      attribute: 2900517941
+      script: {fileID: 0}
+      classID: 137
+      customType: 20
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2.1500001
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 300
+        outSlope: 300
+        tangentMode: 10
+      - time: .333333343
+        value: 100
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 0
+        inSlope: -33.2999649
+        outSlope: -33.2999649
+        tangentMode: 10
+      - time: .833333313
+        value: 38.9000015
+        inSlope: 300
+        outSlope: 300
+        tangentMode: 10
+      - time: 1
+        value: 100
+        inSlope: 7.94993591
+        outSlope: 7.94993591
+        tangentMode: 10
+      - time: 1.16666663
+        value: 41.5499992
+        inSlope: -299.999969
+        outSlope: -299.999969
+        tangentMode: 10
+      - time: 1.33333337
+        value: 0
+        inSlope: -4.64990997
+        outSlope: -4.64990997
+        tangentMode: 10
+      - time: 1.5
+        value: 40
+        inSlope: 135.000031
+        outSlope: 135.000031
+        tangentMode: 10
+      - time: 1.66666663
+        value: 45
+        inSlope: -89.999939
+        outSlope: -89.999939
+        tangentMode: 10
+      - time: 1.83333337
+        value: 10
+        inSlope: -134.999954
+        outSlope: -134.999954
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: -30.0000076
+        outSlope: -30.0000076
+        tangentMode: 10
+      - time: 2.1500001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.MouthOpen
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 86.8000031
+        outSlope: 86.8000031
+        tangentMode: 10
+      - time: .5
+        value: 43.4000015
+        inSlope: 27.8600006
+        outSlope: 27.8600006
+        tangentMode: 10
+      - time: .833333313
+        value: 33.0400009
+        inSlope: -39.4500046
+        outSlope: -39.4500046
+        tangentMode: 10
+      - time: 1.16666663
+        value: 17.1000004
+        inSlope: -75.2099762
+        outSlope: -75.2099762
+        tangentMode: 10
+      - time: 1.33333337
+        value: 0
+        inSlope: 8.70003891
+        outSlope: 8.70003891
+        tangentMode: 10
+      - time: 1.5
+        value: 20
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.66666663
+        value: 0
+        inSlope: -30.0000286
+        outSlope: -30.0000286
+        tangentMode: 10
+      - time: 1.83333337
+        value: 10
+        inSlope: -2.0980835e-05
+        outSlope: -2.0980835e-05
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: -30.0000076
+        outSlope: -30.0000076
+        tangentMode: 10
+      - time: 2.1500001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.Smile
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 180
+        outSlope: 180
+        tangentMode: 10
+      - time: .166666672
+        value: 30
+        inSlope: 74.3249969
+        outSlope: 74.3249969
+        tangentMode: 10
+      - time: .833333313
+        value: 9.10000038
+        inSlope: 44.3250046
+        outSlope: 44.3250046
+        tangentMode: 10
+      - time: 1.16666663
+        value: 49.0999985
+        inSlope: -87.2999268
+        outSlope: -87.2999268
+        tangentMode: 10
+      - time: 1.33333337
+        value: 0
+        inSlope: -57.2999039
+        outSlope: -57.2999039
+        tangentMode: 10
+      - time: 1.5
+        value: 30
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.66666663
+        value: 0
+        inSlope: -45.0000458
+        outSlope: -45.0000458
+        tangentMode: 10
+      - time: 1.83333337
+        value: 15
+        inSlope: 89.9999847
+        outSlope: 89.9999847
+        tangentMode: 10
+      - time: 2
+        value: 30
+        inSlope: -54.9999275
+        outSlope: -54.9999275
+        tangentMode: 10
+      - time: 2.1500001
+        value: 0
+        inSlope: -199.999878
+        outSlope: -199.999878
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: blendShape.Pout
+    path: Body
+    classID: 137
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.14
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 589fac241189a4159a3e9b3fcef30765, type: 3}
+  script: 'The next step is to check your boots. The infection control specialist
+    will inspect your boots for any visible blood or other bodily fluids, including
+    vomit, urine or poo poo. Press the boots icon to inspect your boots. If you boots
+    are dirty, you will need to wipe off the visible body fluid with a disposable
+    towel and throw it away, and then wipe the area again with another disposable
+    towel soaked with 0.5% chlorine. '

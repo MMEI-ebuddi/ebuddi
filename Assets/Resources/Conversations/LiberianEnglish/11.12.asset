@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.12
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: eaface481184246b8ae3fa13bd10c5dc, type: 3}
+  script: "Pinch the gown at the shoulders. Bend forward. Pull the gown to release
+    the ties Pull gown very carefully away from your body. Do not touch the outside
+    of the gown. It may be highly contaminated. Roll the gown keeping the dirty outside
+    away from your hands. Dispose in the disposable waste bin. \n\nTrainee:\nSee how
+    I carefully roll the gown with the outside of the gown rolled into itself.\nTo
+    make sure I am clean, I will still wash my hands no matter how carefully I have
+    removed my gown."

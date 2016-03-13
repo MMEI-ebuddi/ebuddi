@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 8.12.T FS insert
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: c679eb5472bac47ad802708460d67376, type: 3}
+  script: 'Bend forward. This is too important. You must makes sure that drops does
+    not fall on your body. This would be very very dangerous. Let me show you why.
+    Inside the drop there are millions of infectious agents. These could be viruses,
+    bacteria, fungi or other organisms. It would be too easy to catch the disease
+    if you have contact with the drops. '

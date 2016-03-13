@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: e69d2dfeceaa4754295f92e05d278a28
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bookcase
+    100002: FaceShield
+    100006: //RootNode
+    400000: Bookcase
+    400002: FaceShield
+    400006: //RootNode
+    2300000: Bookcase
+    2300002: FaceShield
+    2300006: //RootNode
+    3300000: Bookcase
+    3300002: FaceShield
+    3300006: //RootNode
+    4300000: OuterCabinet
+    4300002: Back
+    4300004: Top_Shelf
+    4300006: 3rd_Shelf
+    4300008: 2nd_Shelf
+    4300010: Bottom_Shelf
+    4300012: Bookcase
+    4300014: FaceShield
+    7400000: Default Take //// BookCase_003
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

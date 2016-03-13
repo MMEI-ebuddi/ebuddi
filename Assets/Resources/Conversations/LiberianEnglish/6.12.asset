@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 6.12
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: 11b67f99f393d428b8e5b08c8244cc3f, type: 3}
+  script: In order to ensure that you have learnt the donning steps, you are now required
+    to identify the right steps for donning without any help from Buddy. You will
+    be shown a checklist at the start, and then you will select the equipment in the
+    right order. If you select an equipment in the wrong order, then you will have
+    to start again. You will have to identify the right order twice.

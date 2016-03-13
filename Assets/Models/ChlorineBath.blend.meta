@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 21631d655f943ac458480281504528a2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bin
+    100004: BinHigh
+    100006: Bucket
+    100008: Bucket_001
+    100010: Water
+    400000: //RootNode
+    400002: Bin
+    400004: BinHigh
+    400006: Bucket
+    400008: Bucket_001
+    400010: Water
+    2300000: //RootNode
+    2300002: Bin
+    2300004: BinHigh
+    2300006: Bucket
+    2300008: Bucket_001
+    2300010: Water
+    3300000: //RootNode
+    3300002: Bin
+    3300004: BinHigh
+    3300006: Bucket
+    3300008: Bucket_001
+    3300010: Water
+    4300000: Bin
+    4300002: BinHigh
+    4300004: Circle
+    4300006: Bucket
+    4300008: Bucket_001
+    4300010: Water
+    4300012: Plane
+    4300014: FootBath
+    7400000: Default Take //// Bin_001
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 1
+  userData: 

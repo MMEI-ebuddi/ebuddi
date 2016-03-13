@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 4a0991c795db45f47a4939a5030e341c
+timeCreated: 1437672679
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Eyelashes
+    100002: FaceMask
+    100004: FaceShieldHand1
+    100006: //RootNode
+    100008: gog01
+    100010: gog010
+    100012: gog011
+    100014: gog012
+    100016: gog013
+    100018: gog015
+    100020: gog02
+    100022: gog03
+    100024: gog04
+    100026: gog05
+    100028: gog06
+    100030: gog07
+    100032: gog08
+    100034: gog09
+    100036: GogglesHand1
+    100038: Gown
+    100040: Hair
+    100042: Hood
+    100044: hoodjoint1
+    100046: hoodjoint_bandL
+    100048: Just_Clothing_Apron
+    100050: Body
+    100052: Boots
+    100054: Bottoms
+    100056: Eyes
+    100058: Eyes001
+    100060: Face Shield
+    100062: Gloves 2
+    100064: Gloves1
+    100066: Jewellery
+    100068: Mouth
+    100070: Tops
+    400000: Eyelashes
+    400002: FaceMask
+    400004: FaceShieldHand1
+    400006: //RootNode
+    400008: gog01
+    400010: gog010
+    400012: gog011
+    400014: gog012
+    400016: gog013
+    400018: gog015
+    400020: gog02
+    400022: gog03
+    400024: gog04
+    400026: gog05
+    400028: gog06
+    400030: gog07
+    400032: gog08
+    400034: gog09
+    400036: GogglesHand1
+    400038: Gown
+    400040: Hair
+    400042: Hood
+    400044: hoodjoint1
+    400046: hoodjoint_bandL
+    400048: Just_Clothing_Apron
+    400050: Body
+    400052: Boots
+    400054: Bottoms
+    400056: Eyes
+    400058: Eyes001
+    400060: Face Shield
+    400062: Gloves 2
+    400064: Gloves1
+    400066: Jewellery
+    400068: Mouth
+    400070: Tops
+    2300000: Eyelashes
+    2300002: FaceMask
+    2300004: FaceShieldHand1
+    2300006: Gown
+    2300008: Hood
+    2300010: Just_Clothing_Apron
+    2300012: GogglesHand1
+    2300014: Body
+    2300016: Boots
+    2300018: Bottoms
+    2300020: Eyes001
+    2300022: Face Shield
+    2300024: Gloves 2
+    2300026: Gloves1
+    2300028: Hair
+    2300030: Jewellery
+    2300032: Mouth
+    2300034: Tops
+    3300000: Eyelashes
+    3300002: FaceMask
+    3300004: FaceShieldHand1
+    3300006: Gown
+    3300008: Hood
+    3300010: Just_Clothing_Apron
+    3300012: GogglesHand1
+    3300014: Body
+    3300016: Boots
+    3300018: Bottoms
+    3300020: Eyes001
+    3300022: Face Shield
+    3300024: Gloves 2
+    3300026: Gloves1
+    3300028: Hair
+    3300030: Jewellery
+    3300032: Mouth
+    3300034: Tops
+    4300000: FaceMask
+    4300002: FaceShieldHand1
+    4300004: GogglesHand1
+    4300006: Eyelashes
+    4300008: Hood
+    4300010: Just_Clothing_Apron
+    4300012: Gown
+    4300014: Hair
+    4300016: Bottoms
+    4300018: Boots
+    4300020: Tops
+    4300022: Body
+    4300024: Gloves1
+    4300026: Gloves 2
+    4300028: Face Shield
+    4300030: Jewellery
+    4300032: Eyes001
+    4300034: Mouth
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: GogglesHand1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

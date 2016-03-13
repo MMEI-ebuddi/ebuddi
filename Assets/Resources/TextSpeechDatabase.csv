@@ -1,0 +1,173 @@
+DISPLAY ID,English,Krio
+,TITLE,
+UIStart,Now we are ready to start.,
+UIPractice,Practice a section,
+UIOptions,Change the simulation settings,
+UIExit,Exit the simulation,
+Buddy_Title_Intro,Hello I'm your buddy./nI am going to guide you through your PPE training./nI will help you keep safe so that you can keep serving.,
+Buddy_Poster_Intro,These posters on the wall will guide you./nThey will light up when you have completed each section. When you have finished you can go back and practice.,
+Buddy_NewUser_Intro,Click on the poster with the plus sign if you are using this module for the first time and enter your details.,
+Buddy_LoadUser_Intro,Click on the poster with the tick sign if you are returning to the module and have already registered previously.,
+Buddy_LoadUser_Welcome,Welcome back. Choose a scene to play again.,
+Buddy_Donning_Intro,Here we will choose our PPE. There is different equipment for different times. It is very important to put on PPE in the right order. We help you remember to put on your PPE safely.,
+Buddy_RiskHazard_Intro,"We will help you see risks and hazards. Together we can keep you, your work mates and your patients safer./nWe will test whether you can spot all the hazards.",
+Buddy_Doffing_Intro,"We will learn how to safely take off PPE. It is when you need to be most careful. I will help you./nAlways ask a buddy to help you take off your PPE. Practice, practice, practice will make perfect.",
+,,
+,EQUIPMENT,
+Equipment_Main,"When you enter high risk areas you will need enhanced PPE. For this you will need scrubs and boots, inner gloves, a gown, a face mask, goggles, a hairnet if you have long hair, a hood, outer gloves and an apron.",NEED TRANSLATION
+Equipment_Main_Basic,"You have chosen to wear basic PPE./nThis is needed before any encounter with a patient in a low risk situation./nPlease remember not to wear any PPE when you are eating or drinking, if you are on a break or if you need to use the phone.",NEED TRANSLATION
+Equipment_Main_Basic_2,You can keep your shoes on but you will need to clean them with chlorinated water or disinfectant if they become soiled./nAs soon as you arrive at the health facility take off your street clothes and shoes and put on your work clothes and closed toed shoes or boots.,NEED TRANSLATION
+Equipment_Main_Basic_3,If you are working in a labor or maternity area you must wear boots because of the extra risk of coming into contact with bodily fluids.,NEED TRANSLATION
+Equipment_FaceMask,The face mask protects your nose and mouth and can be worn with the face shield or goggles.,NEED TRANSLATION
+Equipment_InnerGloves,Gloves protect the hands and you may need to wear an inner and outer glove for extra protection.,NEED TRANSLATION
+Equipment_Gown,"The gown covers your upper body, skin and clothes.",NEED TRANSLATION
+Equipment_Hood,"The hood protects the scalp, hair and neck./nIf you have long hair you will need a head cover for your scalp and hair.",NEED TRANSLATION
+Equipment_FaceShield,The face shield protects your eyes and face.,NEED TRANSLATION
+Equipment_OuterGloves,If you are cleaning then outer gloves should be the thick rubber cleaning gloves.,NEED TRANSLATION
+Equipment_Apron,An apron will give added protection for your upper body skin and clothes and should be worn if you may be exposed to a lot of body fluids.,NEED TRANSLATION
+Equipment_Goggles,Goggles also protect your eyes and face and can be used instead of a face shield.,
+Equipment_Boots,Boots protect your feet and legs.,
+Equipment_Scrubs,You will need scrubs.,
+,,
+,DONNING,
+Buddy_DonningIntro,In this section we will cover the importance of PPE in infection prevention and control./nWe will describe each piece of PPE and the protection it gives you./nWe will explain the importance of carefully putting on PPE.,
+PPEChoice_Basic,Basic PPE,NEED TRANSLATION
+PPEChoice_Enhanced,Enhanced PPE,NEED TRANSLATION
+PPEChoiceIntro,You should wear basic PPE because you do not know who has an infection. It is necessary to wear PPE before contact with every patient. Everyone working in a healthcare setting should wear the right PPE for the task./nNow please select which PPE you need by clicking on the left for basic and on the right for enhanced.,NEED TRANSLATION
+PPEDonning,Before you put on your PPE there are important things to remember./nKeep safe by very carefully following infection control practices at all times. Never take short cuts.,NEED TRANSLATION
+PPEDonning_2,I will be your buddy to help you keep safe. You should always have a buddy. We can check each other's PPE equipment to make sure it is safe and unused. Check there are no tears or damage.,
+PPEDonning_3,"Never, never, never hurry when putting on or taking off PPE./nThey must both be done slowly and carefully./nAlways ask someone to be your buddy. Keeping yourself safe is the best way to help your patient.",
+PPEDonning_4,"Before you start, drink water. You cannot drink water when you are wearing PPE./nGo to the toilet before you put on PPE. You cannot go to the toilet when you are wearing PPE.",
+GuidedDonning_Preparation,Before putting on PPE we must take off all items that could become contaminated or catch on our clothing such as jewelry and put away your mobile phone.,NEED TRANSLATION
+GuidedDonning_WashHands,"Immediately before you put on PPE wash your hands thoroughly. Use soap and water and 0.05% chlorine solution. If your hands are visibly clean, you can use alcohol based rub.",NEED TRANSLATION
+GuidedDonning_Name,Before you are finished you write your name on your Apron.,NEED TRANSLATION
+GuidedDonning_Done,Now we need to check if you have put on your PPE correctly./nWe need to check that all your body is covered when you go through a full range of movements.,NEED TRANSLATION
+,,
+GuidedDonning_FaceShield,The face shield will protect your eyes and nose. You should bend your head when you put on the face shield to help you remember to do that when you take it off. Make sure it is fitted comfortably above your eyebrows and will not slide down your face. Secure it with an elastic band or ties.,NEED TRANSLATION
+GuidedDonning_Goggles,"When using enhanced PPE, if you have both goggles and face shield, we recommend using goggles. If you have tissues, make sure the goggles are clean and not foggy.",NEED TRANSLATION
+GuidedDonning_Goggles_2,Lean forwards and place the goggles over your eyes without touching your face with your hands./Although your hands are clean now we want you to develop the habit of never touching your face when wearing PPE. Put the straps over your head and adjust them to make them comfortable.,
+GuidedDonning_FaceMask,Check that the face mask is clean and unused. Do not put your hands on your face because you must remember not to do so when your hands are dirty.,NEED TRANSLATION
+GuidedDonning_FaceZoom,"Make sure that there is no skin exposed between your goggles, face mask and hood",
+GuidedDonning_HeadCover,Put on your head cover. NEED INSTRUCTION HERE,NEED TRANSLATION
+GuidedDonning_Hood,If you have long hair it is best to use a hair cover under your hood. This will stop your hair getting contaminated./n Place the hood over your head and make sure there are no gaps between the hood and the gown.,NEED TRANSLATION
+GuidedDonning_AttachedHood,You now need to put on your attached hood. NEED INSTRUCTION HERE,NEED TRANSLATION
+GuidedDonning_Suit,Next you will need to put on your suit. NEED INSTRUCTION HERE,NEED TRANSLATION
+GuidedDonning_Gown,Put on your gown with the opening at the back. Secure the gown at the neck and behind your back with the ties. I can help you./nMake sure there is no gap between the gloves and the gown./nInspect your gown to make sure there are no tears or has a factory fault.,NEED TRANSLATION
+GuidedDonning_ReusableApron,Put on your apron by passing the straps over your head. Tie the apron at your waist.,NEED TRANSLATION
+GuidedDonning_DisposableApron,Put on your apron by passing the straps over your head. Tie the apron at your waist.,NEED TRANSLATION
+GuidedDonning_InnerGloves,Check the gloves are unused and are not torn./nWhen you put on your gloves you need to check they are not too tight. You need to be able to take them off quite easily without touching the outside of the glove.,NEED TRANSLATION
+GuidedDonning_InnerGloves_Basic,When you put on your gloves you need to check they are not too tight./nYou need to be able to take them off quite easily without touching the outside of the glove./nMake sure there is no gap between the gloves and the gown./nIf there is a gap you need to find a larger gown because you must cover your wrists,NEED TRANSLATION
+GuidedDonning_OuterGloves,Now you can put on your outer pair of gloves. Remember that your outer gloves must cover the outside of your gown sleeves./nPlease check that your wrists are covered if you stretch out your arms.,NEED TRANSLATION
+,,
+Buddy_UnguidedDonning_Intro,"In order to ensure that you have learnt the donning steps, you are now required to identify the correct steps for donning without any help from Buddy. You will be shown a checklist at the start, and then you will select the equipment in the correct order. If you select an equipment in the incorrect order then you will have to start again. You will have to identify the correct order twice.",
+GoodDonning_Preparation,"Put away your mobile phone, and remove all jewellery now.",NEED TRANSLATION
+GoodDonning_WashHands,"That's correct, wash your hands before you put on your PPE.",NEED TRANSLATION
+GoodDonning_InnerGloves,Make sure the gloves are a good fit and not too tight.,NEED TRANSLATION
+GoodDonning_Gown,Remember to tie the gown at the back.,NEED TRANSLATION
+GoodDonning_FaceMask,"Your face mask needs to fit well over your mouth, nose and chin.",NEED TRANSLATION
+GoodDonning_Goggles,Avoid putting your hands on the front of your goggles.,
+GoodDonning_Hood,There should be no gaps between the hood and the gown.,NEED TRANSLATION
+GoodDonning_FaceShield,Never touch the inside of the face shield with your hands.,NEED TRANSLATION
+GoodDonning_OuterGloves,Remember your outer gloves must cover the outside of your gown sleeves.,NEED TRANSLATION
+GoodDonning_ReusableApron,Tie the apron at your waist.,NEED TRANSLATION
+GoodDonning_DisposableApron,Tie the apron at your waist.,NEED TRANSLATION
+GoodDonning_Repeat,"Well done, you have put on your PPE correctly. Please try one more time.",NEED TRANSLATION
+GoodDonning_Done,You have successfully selected your PPE in the correct order twice. You are now ready to proceed.,NEED TRANSLATION
+,,
+BadDonning,"That’s not the right item to put on now! It’s important to put your kit on in the correct order to ensure maximum protection. Have a look at the checklist to make sure you know the order, and when you are ready, try again.",NEED TRANSLATION
+RepeatGuided,You got it wrong again. Let's go back and I'll guide you through the steps another time.,NEED TRANSLATION
+,,
+Donning_Roundup_Title,Well Done!,
+Donning_Roundup_Body,You have successfully completed the donning section. Next we will look at some of the risks you may face whilst wearing PPE.,
+,,
+,DOFFING,
+Buddy_DoffingIntro,I am now going to help you take off your PPE safely. Remember you need to be careful of your hands. Keep them away from your face at all times and below your nipple line. If you follow this rule at all times it will really reduce the risk of you touching your face by mistake.,NEED TRANSLATION
+Buddy_DoffingIntro_2,"When taking off PPE always make sure the outside of the PPE does not touch your skin or any part of your body. Always start by taking off the outermost PPE first. The outer layer is likely to be the most contaminated. Protect your eyes, ears, nose and mouth and your whole face.",
+Buddy_DoffingIntro_3,Keep your gloved hands clean so you can avoid spreading infection as you take off your PPE. You must wash your gloves and your hands many times. Close your eyes and mouth when you remove PPE over your head.,
+,,
+GuidedDoffing_CorrectWay,What is the correct way to take off this equipment?,
+GuidedDoffing_FaceShield,Now you are ready to remove your face shield. Bend your head forward. This will allow the shield to fall downwards away from your face and stop any drops of liquid on the face shield from falling on your face. Close your eyes.,NEED TRANSLATION
+GuidedDoffing_FaceShield_2,Do not put your hands anywhere near your face. Remove the face shield by lifting it over your head by holding the elastic strap at the back of your head. Move the face shield away from your face. Place the face shield carefully in the disposal waste bin.,
+GuidedDoffingCorrect_FaceShield,That's the correct way to take this off. Make sure you lift the face shield from the back of your head and away from your face.,NEED TRANSLATION
+GuidedDoffingIncorrect_FaceShield,That's not the correct way to take off the face shield. Make sure you lift from the back of your head and away from your face.,NEED TRANSLATION
+GuidedDoffing_Hood,Bend your face forward to protect your face from any liquid that may be on the hood and close your eyes./nGrasp the hood from the back of your head and pull it off and away from your face. Open your eyes when the hood is safely away from your face. Place the hood in the chlorine bucket.,NEED TRANSLATION
+GuidedDoffingCorrect_Hood,"That's the correct way to take off the hood, protect your face from any liquid that may be on the hood.",NEED TRANSLATION
+GuidedDoffingIncorrect_Hood,"That's not the correct way to take off the hood, you need to protect your face from any liquid that may be on the hood.",NEED TRANSLATION
+,,
+GuidedDoffing_WashHands,"Hand washing properly is very important when taking off PPE, even if you are still wearing your gloves. Always wash your hands before you take off your PPE. Each time you wash your hands rinse the tap with chlorine water to kill any germs.",NEED TRANSLATION
+GuidedDoffing_ReusableApron,"Next you take off your apron. Your apron may have a lot of bodily fluids on it and it will be very infectious on the outside. If you have a reusable apron, untie the back, lift the apron over your head very carefully. Lower your head down to make sure you do not touch the your head or face with the apron. Put the reusable apron in the 0.5% chlorine solution.",NEED TRANSLATION
+GuidedDoffing_DisposableApron,"Next you take off your apron. Your apron may have a lot of bodily fluids on it and it will be very infectious on the outside. If you have a disposable apron, pull it from the front to break it off your neck and back without touching. Fold the outside of the apron. Make sure you only touch the inside as the outside is very infectious. Put the apron in the disposal waste bin.",NEED TRANSLATION
+GuidedDoffing_WashHandsAgain,Your gloved hands are probably infected with the germs that were on your PPE. Always wash your inner gloved hands with 0.5% chlorine solution and throw some chlorine solution over the tap to wash off the germs. Dry your gloves with a clean towel and discard the towel in the disposal bin. Remember you cannot see the virus and it is better to be safe and always wash your hands properly.,NEED TRANSLATION
+GuidedDoffing_WashHandsAgainALT,Good. Wash your hands using all the steps. Why not count the steps to make sure.,
+GuidedDoffing_WashHandsAgainALT2,Good. Wash your hands using all the steps. Why not count the steps to make sure.,
+GuidedDoffing_OuterGloves,"Take off your outer gloves very slowly and carefully. Pinch the glove at your palm and fold it inwards. Peel off the first outer glove./nFor the second glove, use your index finger. Slide it inside the glove and push the glove off your hand. Throw the outer gloves in the disposal waste bins. Never touch the outside of the outer glove with your inner glove.",NEED TRANSLATION
+GuidedDoffing_Gown,You pull the front of the gown to release the ties. You hold the gown away from your body and carefully roll the gown with the contaminated outside of the gown rolled into itself./nPlace the rolled gown into the disposal bin.,NEED TRANSLATION
+GuidedDoffing_Boots,"The next step is to check your boots. The infection control specialist will inspect your boots for any visible blood or other bodily fluids, including vomit, urine or stool. Press the boots icon to inspect your boots. If your boots are dirty, you will need to wipe off the visible body fluid with a disposable towel and throw it away, and then wipe the area again with another disposable towel soaked with 0.5% chlorine.",NEED TRANSLATION
+GuidedDoffing_Goggles,After you take off your hood you are ready to take off your goggles./nBend your head forward to avoid any drops of liquid on your goggles falling on your face. Do not touch the front of your goggles to avoid putting your gloved hands anywhere near your face.,NEED TRANSLATION
+GuidedDoffing_Goggles_2,Lift the strap of your goggles over your head and move the goggles away from your face. Place the goggles carefully in the bucket of strong chlorine.,
+GuidedDoffing_FaceMask,It is safer to remove your face mask without touching the front of the mask. Bend your head forward in case there is any liquid on the face mask. Place the face mask in the disposal bin.,NEED TRANSLATION
+GuidedDoffing_InnerGloves,Take off your gloves very carefully and slowly./nPinch the first glove near the wrist with your opposite gloved hand. Fold it under and peel the first glove away. Hold the removed glove in the hand that still has the glove on. Put it in the disposal waste bin.,NEED TRANSLATION
+GuidedDoffing_InnerGloves_2,Slide the fingers of the bare hand under the gloved hand at the wrist. Peel off the remaining glove so it is removed inside out./nBe careful not to touch the outside of the glove. Put the gloves in the disposal waste bin.,
+GuidedDoffing_BootsRemoval,Next you must clean your boots. Stand in the tub containing 0.5% chlorine solution for 10 seconds./nYour boots may still be contaminated even though you have been through the tub. You must not wear your work clothes and boots home.,NEED TRANSLATION
+GuidedDoffing_Done,"Now we have been through the steps to remove your PPE, it is your turn to watch your friend removing theirs. Tell them which steps to take by selecting the icon from the menu. Remember, the order you take your PPE off in is important to help stop infection spread, and the checklist is always available if you need some help. What is the first thing your colleague needs to do in order to remove their PPE safely?",NEED TRANSLATION
+,,
+GoodDoffing_WashHands,Good. Wash your hands using all the steps. Why not count the steps to make sure.,NEED TRANSLATION
+GoodDoffing_ReusableApron,The apron is one of the most contaminated items of PPE so take care not to touch the front of the apron.,NEED TRANSLATION
+GoodDoffing_DisposableApron,The apron is one of the most contaminated items of PPE so take care not to touch the front of the apron.,NEED TRANSLATION
+GoodDoffing_WashHandsAgain,Good. Wash your hands using all the steps. Why not count the steps to make sure.,NEED TRANSLATION
+GoodDoffing_OuterGloves,"That's right, take off the outer gloves first./nDon't forget, never touch the outside of the gloves.",NEED TRANSLATION
+GoodDoffing_Gown,Make sure you roll the gown with the contaminated side on the inside.,NEED TRANSLATION
+GoodDoffing_Boots,"Inspect your boots for any visible blood or other bodily fluids, including vomit, urine or stool.",NEED TRANSLATION
+GoodDoffing_FaceShield,Make sure you lift the face shield from the back of your head and away from your face.,NEED TRANSLATION
+GoodDoffing_Goggles,"The key is to avoid touching the front of the goggles. When you dispose of the goggles, always place them in the bucket, never drop them to avoid splashing.",NEED TRANSLATION
+GoodDoffing_Hood,Always pull your hood from the top of your head and away from your face.,NEED TRANSLATION
+GoodDoffing_FaceMask,"Again, avoid touching your face.",NEED TRANSLATION
+GoodDoffing_InnerGloves,Do you remember we checked the gloves were the right size at the start so that we can get them off easily and reduce the risk of flicking any liquid from the gloves.,NEED TRANSLATION
+GoodDoffing_BootsRemoval,Time your footbath to make sure your boots are clean.,NEED TRANSLATION
+GoodDoffing_Repeat,"Well done, you have safely removed your PPE. Let's just try it again to make sure.",NEED TRANSLATION
+GoodDoffing_Done,"Congratulations, you have successfully removed your PPE, and completed the doffing section. If you would like to retry any of the sections in this simulation, you can return to the menu and use the posters to choose where to go. Well done!",NEED TRANSLATION
+BadDoffing,"That’s not the right item to take off now! It’s important to take your kit off in the correct order to ensure maximum protection. Have a look at the checklist to make sure you know the order, and when you are ready, try again.",NEED TRANSLATION
+,,
+,RISKS,
+Buddy_RiskIntro,We will now help you to build awareness of risks when using PPE and help you learn to reduce risks./nFirst we will consider some golden rules when wearing PPE. When we enter a patient area we assume our gloves and all our PPE is contaminated.,
+Buddy_RiskIntro_2,"The golden rules are NOT to touch your face, NOT to adjust or touch your PPE and NOT to pick up objects such as your mobile phone, pens, books or patient records. You should avoid touching surfaces or non-clinical items whenever possible.",
+Buddy_RiskIntro_3,Whenever you walk into a patient area you must look for hazards and take every care to reduce your risk. Look to see if the room is clean and clear of obstructions. Now click on any risks or hazards that you can see.,
+Buddy_RisksFound,"Well done, you found all the potential hazards in this scene. It is important to keep yourself safe by always being aware of hazards and taking steps to reduce the risk.",
+Buddy_RisksMissed,You didn't find all the potential hazards in this scene. It is important to keep yourself safe so that you can keep serving your patients and keep them safe.,
+Risk_PaperTowel_Found,If you see a towel on the floor put it in the waste disposal bin and wash your hands.,
+Risk_PaperTowel_Missed,You missed the used towel./nIf you see a towel on the floor put it in the waste disposal bin and wash your hands.,
+Risk_PatientHead_Found,"The area around the patient's head is very high risk of infection, and should not be entered.",
+Risk_PatientHead_Missed,You missed the area around the patient's head./nThis area has a very high risk of infection and should not be entered.,
+Risk_BucketOfVomit_Found,Vomit is infectious. Always call in the cleaning staff who will be wearing enhanced PPE with strong rubber outer gloves to clean up the vomit.,
+Risk_BucketOfVomit_Missed,You missed the bucket of vomit. Vomit is infectious. Always call in the cleaning staff who will be wearing enhanced PPE with strong rubber outer gloves to clean up the vomit.,
+Risk_ContaminatedSheets_Found,Dirty linen is infectious. Always call in the cleaning staff who will be wearing enhanced PPE with strong rubber outer gloves to dispose of the linen.,
+Risk_ContaminatedSheets_Missed,You missed the dirty linen. Contaminated sheets are infectious. Always call in the cleaning staff who will be wearing enhanced PPE with strong rubber outer gloves to dispose of the linen.,
+Risk_VomitOnFloor_Found,Vomit is infectious. Always call in the cleaning staff who will be wearing enhanced PPE with strong rubber outer gloves to clean up the vomit.,
+Risk_VomitOnFloor_Missed,You missed the Vomit on the floor. Always call in the cleaning staff who will be wearing enhanced PPE with strong rubber outer gloves to clean up the vomit.,
+Risk_BucketObstacle_Found,The bucket could be knocked over! Move it to a safe position out of the way.,
+Risk_BucketObstacle_Missed,You missed the bucket that could be knocked over. It should be moved to a safe position out of the way.,
+Risk_OverflowingSharps_Found,Well done! That box of sharps is overflowing and is very dangerous.,
+Risk_OverflowingSharps_Missed,"You missed the box of sharps, which is overflowing and very dangerous.",
+,,
+,HAZARDS,
+Buddy_HazardIntro,"Whenever we enter a patient area we assume our gloves and all our PPE is contaminated./nWhenever you walk into a patient area you must look for hazards that occur around you and take every care to reduce your risk. Watch the following scene, and click on any risks or hazards that you can see as they happen.",
+Buddy_HazardsFound,"You have successfully identified all the hazards, well done. However there could be other hazards that occur in different settings. You must look out for them at all times to keep yourself safe.",
+Buddy_HazardsMissed,"You missed some hazards. It is important to look out for hazards at all times to keep yourself safe. Please visit this section once you have completed the module, to learn more about the hazards.",
+Buddy_HazardRoundup,Let's see how well you did,
+Hazard_UncoveringWrists_Found,You saw the wrist was uncovered. It is best to cut a small hole in your gown for your thumb to make sure your wrists are always covered.,
+Hazard_UncoveringWrists_Missed,You didn't notice your wrists were uncovered. It is best to cut a small hole in your gown for your thumb to make sure your wrists are always covered.,
+Hazard_FeelingFeint_Found,"If you ever feel feint or dehydrated you should stop work, tell your buddy, leave the isolation area and remove your PPE safely. After you have removed your PPE safely you can have a drink of water and sit down or lie down.",
+Hazard_FeelingFeint_Missed,"You didn't notice yourself feeling feint. If you ever feel feint or dehydrated  you should stop work, tell your buddy, leave the isolation area and remove your PPE safely. After you have removed your PPE safely you can have a drink of water and sit down or lie down.",
+Hazard_BucketUpturned_Found,"Vomit is infectious, and you should always call in the cleaning staff who will be wearing enhanced PPE with strong outer gloves to clean up the vomit.",
+Hazard_BucketUpturned_Missed,"You didn't notice touching that bucket of vomit. Vomit is infectious, and you should always call in the cleaning staff who will be wearing enhanced PPE with strong outer gloves to clean up the vomit.",
+Hazard_PatientHeadZone_Found,Entering the area near the patient's head is a hazard because it can be highly infectious.,
+Hazard_PatientHeadZone_Missed,You didn't notice getting too close to the patient. Entering the area near the patient's head is a hazard because it can be highly infectious.,
+Hazard_TooLongInPPE_Found,Well done! Spending too long in PPE can be dangerous because you will get tired and make mistakes.,
+Hazard_TooLongInPPE_Missed,"You didn't notice you've been spending too long in PPE, which can be dangerous because you will get tired and make mistakes.",
+Hazard_HandWashing_Found,"Yes, that hand washing was rushed and is a hazard",
+Hazard_HandWashing_Missed,You didn't notice the rushed hand washing which could be a hazard,
+,,
+,TESTING,
+Test,This is a first test,
+Test_2,This is a second test,
+Test_3,This is a third test,

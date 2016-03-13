@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 8.12.T
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: fa921e063aeae43eabb9ce8aa683052f, type: 3}
+  script: "What is the correct way to take off this PPE?\n\nThat\u2019s the correct
+    way to take this off. Make sure you lift the face shield from the back of your
+    head and away from your face.\n\nThat\u2019s not the correct way to take off the
+    face shield. Make sure you lift from the back of your head and away from your
+    face.\n\nBend forward. This is too important. You must makes sure that drops does
+    not fall on your body. This would be very very dangerous. Let me show you why.
+    Inside the drop there are millions of infectious agents. These could be viruses,
+    bacteria, fungi or other organisms. It would be too easy to catch the disease
+    if you have contact with the drops. "

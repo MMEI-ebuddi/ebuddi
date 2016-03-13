@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hazard
+  - Ebola
+  - InfectionPerson
+  - InfectionHazard
+  - BioHazardBucket
+  - light
+  - EquipmentItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Equipment
+  - EquipmentHighlight
+  - UISelectable
+  - UISelectableHighlight
+  - Risk
+  - Hazard
+  - Buddy
+  - Static
+  - Dynamic
+  - Static3DUI
+  - ContaminationArea
+  - HelperMesh
+  - 3DHighlighted
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EbolaParticles
+    uniqueID: 747974209
+    locked: 0

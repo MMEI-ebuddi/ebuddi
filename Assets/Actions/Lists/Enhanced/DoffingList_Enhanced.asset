@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae78f07fbc5057f4d8bf66de80c95d3a, type: 3}
+  m_Name: DoffingList_Enhanced
+  m_EditorClassIdentifier: 
+  ActionOrder:
+  - {fileID: 11400000, guid: 97077368d36784b60b1a7c9ae4cd38cd, type: 2}
+  - {fileID: 11400000, guid: 87cd3cf8ebdcaa74c995c4506f63b969, type: 2}
+  - {fileID: 11400000, guid: 9f0c56616775cf6409c27c36891d5008, type: 2}
+  - {fileID: 11400000, guid: c4cfa0199e7255f499d77871e36a6349, type: 2}
+  - {fileID: 11400000, guid: ff5815fd4a8f33b459ca2bd3520a407d, type: 2}
+  - {fileID: 11400000, guid: a8a31a65bcf13694cadb739cc82112f1, type: 2}
+  - {fileID: 11400000, guid: 877226b3d5fa72b44a1057db5356cb61, type: 2}
+  - {fileID: 11400000, guid: a974e746d309a374ebba88fa9bf90cc0, type: 2}
+  - {fileID: 11400000, guid: 2becfff163803854b98161b857db4cf9, type: 2}
+  - {fileID: 11400000, guid: af12c97b6b87a8d459d87b4660dcc97d, type: 2}
+  - {fileID: 11400000, guid: 9c6409c0e83614b43bc37802dc354a63, type: 2}
+  - {fileID: 11400000, guid: ff5815fd4a8f33b459ca2bd3520a407d, type: 2}
+  ShowUnusedEquipment: 1
+  ActionWashHands: {fileID: 11400000, guid: ba27d436b38882641b83410034f96999, type: 2}

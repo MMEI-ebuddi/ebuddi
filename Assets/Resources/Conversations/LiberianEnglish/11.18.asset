@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7b8ea211601e4ae0b3d9ff41e2f9984, type: 3}
+  m_Name: 11.18
+  m_EditorClassIdentifier: 
+  language: 1
+  audioClip: {fileID: 8300000, guid: a37729a9a324e4b258cb0fb515b0fb42, type: 3}
+  script: "Now take off your hood. Bend your head over. Close your eyes. Pinch the
+    hood at the top and pull over your head and away from your body. Put in the disposable
+    waste bag. \n\nTrainee:\nI have shut my eyes to protect them and I have tilted
+    my head forwards. \nI am grasping the top of the hood and pulling it up and off
+    my head.\nI am keeping my hands away from my face."
