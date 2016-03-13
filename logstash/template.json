@@ -1,0 +1,69 @@
+{
+    "template": "logstash-*",
+    "mappings": {
+        "_default_": {
+            "dynamic_templates": [{
+                "message_field": {
+                    "mapping": {
+                        "index": "analyzed",
+                        "omit_norms": true,
+                        "type": "string"
+                    },
+                    "match_mapping_type": "string",
+                    "match": "message"
+                }
+            }, {
+                "string_fields": {
+                    "mapping": {
+                        "index": "analyzed",
+                        "omit_norms": true,
+                        "type": "string",
+                        "fields": {
+                            "raw": {
+                                "ignore_above": 256,
+                                "index": "not_analyzed",
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "match_mapping_type": "string",
+                    "match": "*"
+                }
+            }],
+            "properties" : {
+                "date_time" : {
+                        "format": "MM/dd/yyy HH:mm:ss aa||MM/dd/yyy HH:mm:ss",
+                        "type": "date"
+                },
+                "location": {
+                            "type": "geo_point"
+                        }
+            }
+        },
+        "logs": {
+            "properties": {
+                "session": {
+                    "include_in_root": true,
+                    "type": "nested",
+                    "properties": {
+                        "correctActions": {
+                            "include_in_root": true,
+                            "type": "nested"
+                        },
+                        "wrongActions": {
+                            "include_in_root": true,
+                            "type": "nested"
+                        },
+                        "quizQuestions": {
+                            "include_in_root": true,
+                            "type": "nested"
+                        },
+                        "location": {
+                            "type": "geo_point"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
