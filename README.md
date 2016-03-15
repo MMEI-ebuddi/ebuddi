@@ -18,6 +18,12 @@ Phase 5 (Jan 2016 - ... ): Mobile. Additional functionality has been developed t
 
 The module was developed alongside the rollout of frontline healthcare worker training conducted by the WHO.  Raw feedback was collected to compare the initial development from ebuddi triage to traditional training methods. It was apparent that target end users were much more confident using touchscreen interfaces than traditional computers.
 
+# Collaboration
+You found this repo because You are awesome and want to contribute to the project making the world better place. A massive Thank You to YOU! We will review all pull requests frequently.
+
+Please read through the wiki to have a better understanding of the project
+https://github.com/MMEI-ebuddi/ebuddi/wiki
+
 # Requirements
 
 Open in Unity 5.2.3p3 to avoid issues with video
@@ -27,9 +33,6 @@ Open in Unity 5.2.3p3 to avoid issues with video
 * Android
 * PC
 * MAC
-
-# Collaboration
-You found this repo because You are awesome and want to contribute to the project making the world better place. A massive Thank You to YOU! We will review all pull requests frequently.
 
 
 ##TODO list
@@ -45,7 +48,7 @@ At the moment ebuddi is using following plugins:
  * iTween
  * Camera Path Editor
  * Mobile Movie texture (works up to Unity 5.2.3)
- * 
+
 
 #Credit
 ----
