@@ -1,0 +1,301 @@
+<analytics>
+<userdata>
+<states>
+	<state>
+		<index>-1</index>
+	</state>
+	<state>
+		<index>0</index>
+	</state>
+	<state>
+		<index>1</index>
+		<click x="0.1465947" y="0.1863119" />
+	</state>
+	<state>
+		<index>2</index>
+		<click x="0.1465947" y="0.1863119" />
+	</state>
+	<state>
+		<index>3</index>
+		<click x="0.1465947" y="0.1863119" />
+	</state>
+	<state>
+		<index>4</index>
+		<click x="0.1465947" y="0.1863119" />
+	</state>
+	<state>
+		<index>5</index>
+		<click x="0.1465947" y="0.1863119" />
+		<click x="0.3534053" y="0.4795496" />
+	</state>
+	<state>
+		<index>6</index>
+		<click x="0.1366837" y="0.1948698" />
+	</state>
+	<state>
+		<index>7</index>
+	</state>
+	<state>
+		<index>8</index>
+		<click x="0.1366837" y="0.1948698" />
+	</state>
+	<state>
+		<index>9</index>
+		<click x="0.1439077" y="0.1904031" />
+	</state>
+	<state>
+		<index>10</index>
+	</state>
+</states>
+
+
+
+</userdata>
+<userdata>
+<states>
+	<state>
+		<index>4</index>
+		<click x="0.1457014" y="0.215449" />
+	</state>
+	<state>
+		<index>5</index>
+		<click x="0.1368238" y="0.1984285" />
+	</state>
+	<state>
+		<index>6</index>
+		<click x="0.1368238" y="0.1984285" />
+		<click x="0.1368238" y="0.1984285" />
+	</state>
+	<state>
+		<index>7</index>
+		<click x="0.8414343" y="0.07925148" />
+	</state>
+	<state>
+		<index>22</index>
+		<click x="0.1477263" y="0.1909355" />
+	</state>
+	<state>
+		<index>8</index>
+		<click x="0.1477263" y="0.1909355" />
+		<click x="0.1477263" y="0.1909355" />
+		<click x="0.1477263" y="0.1909355" />
+		<click x="0.1477263" y="0.1909355" />
+		<click x="0.1477263" y="0.1909355" />
+		<click x="0.1477263" y="0.1909355" />
+		<click x="0.1477263" y="0.1909355" />
+	</state>
+	<state>
+		<index>9</index>
+		<click x="0.1477263" y="0.1909355" />
+	</state>
+	<state>
+		<index>13</index>
+		<click x="0.1355241" y="0.2015726" />
+	</state>
+	<state>
+		<index>16</index>
+	</state>
+	<state>
+		<index>17</index>
+	</state>
+</states>
+
+
+
+</userdata>
+<userdata>
+<states>
+	<state>
+		<index>-1</index>
+	</state>
+	<state>
+		<index>0</index>
+		<click x="0.4174047" y="0.5845252" />
+	</state>
+	<state>
+		<index>1</index>
+	</state>
+	<state>
+		<index>2</index>
+		<click x="0.1443386" y="0.2162392" />
+	</state>
+	<state>
+		<index>3</index>
+		<click x="0.1481257" y="0.2037975" />
+	</state>
+	<state>
+		<index>4</index>
+		<click x="0.1481257" y="0.2037975" />
+		<click x="0.3464966" y="0.6980643" />
+	</state>
+	<state>
+		<index>5</index>
+	</state>
+	<state>
+		<index>7</index>
+	</state>
+	<state>
+		<index>9</index>
+	</state>
+</states>
+
+
+
+</userdata>
+<userdata>
+<states>
+	<state>
+		<index>-1</index>
+	</state>
+	<state>
+		<index>0</index>
+		<click x="0.6178286" y="0.4306571" />
+		<click x="0.6631727" y="0.5727336" />
+	</state>
+	<state>
+		<index>1</index>
+		<click x="0.6215562" y="0.3182389" />
+		<click x="0.6581243" y="0.4066647" />
+		<click x="0.6581243" y="0.394223" />
+	</state>
+</states>
+
+
+
+</userdata>
+<userdata>
+<User name="Aaa" sex="Male" age="12">
+	<Buddy skipped="0" lines="" />
+	<ScenesPlayed scene0="0" scene1="-1" scene2="-1" scene3="-1" />
+	<ScenesTime scene0="-1" scene1="-1" scene2="-1" scene3="-1" />
+	<Equipment description="FaceShield,FaceMask,HeadCover,Hood,Scrubs,Gown,ReusableApron,InnerGloves,OuterGloves,Boots" />
+	<Tracking baddonning="0" baddoffing="0" />
+</User>
+
+<session type="Title" user="Aaa" trainer="" hospital="" date="5/9/2016 4:43:39 PM" latitude="0" longitude="0"><run number="1"><quizQuestions><question text="What is the correct way to take off the gown?" time="0" correctAnswer="Doffing_Image_03" quizType="pre" answers="Bad_BDofGW_2,Doffing_Image_03,Bad_BDofGW_1,Doffing_Image_02" /><question text="What is the correct way to put on the gown?" time="0" correctAnswer="BD_on_GW_01" quizType="pre" answers="BD_on_GW_01,Bad_EDonGW_1,BD_on_GW_02" /><question text="What is the correct way to take off the hood?" time="0" correctAnswer="Good EDofvGGHD -1" quizType="pre" answers="Good EDofvGGHD -1,Good_EDofvFSHD_1" /><question text="What is the correct way to put on inner gloves?" time="0" correctAnswer="BD_on_IG_02" quizType="pre" answers="Bad_BorE_DonIG_2,BD_on_IG_02,Bad_BorE_DonIG_2,BD_on_IG_02" /><question text="What is the correct way to take off the face mask?" time="0" correctAnswer="Good_EDofFM_1" quizType="pre" answers="Bad_EDofEM_1,Good_EDofFM_1" /><question text="What is the correct way to put on face mask?" time="0" correctAnswer="Good EDonFM -1" quizType="pre" answers="Good EDonFM -1" /><question text="What is the correct way to tak off the hood?" time="0" correctAnswer="Good EDofvGGHD -2" quizType="pre" answers="Good EDofvGGHD -2" /><question text="What is the correct way to put on the hood?" time="0" correctAnswer="Good EDonvFSHD -1" quizType="pre" answers="Bad EDonvFSHD -1,Good EDonvFSHD -1,Good EDonvFSHD -1" /><question text="What is the correct way to put on the gogles?" time="0" correctAnswer="Good EDonvGGGG -1" quizType="pre" answers="Good EDonvGGGG -1" /><question text="What is the correct way to take off the gogles?" time="0" correctAnswer="Good EDofvGGGG -1" quizType="pre" answers="Bad EDofvGGGG -1,Good EDofvGGGG -1,Bad EDofvGGGG -2" /></quizQuestions></run></session>
+
+
+</userdata>
+<userdata>
+<states>
+	<state>
+		<index>-1</index>
+	</state>
+	<state>
+		<index>0</index>
+	</state>
+	<state>
+		<index>1</index>
+	</state>
+</states>
+
+
+
+</userdata>
+<userdata>
+<states>
+	<state>
+		<index>-1</index>
+		<click x="0.6441602" y="0.4587978" />
+	</state>
+	<state>
+		<index>0</index>
+	</state>
+	<state>
+		<index>1</index>
+		<click x="0.6419026" y="0.2029882" />
+		<click x="0.5467105" y="0.5165891" />
+		<click x="0.4415812" y="0.4406225" />
+		<click x="0.672183" y="0.3194479" />
+	</state>
+	<state>
+		<index>2</index>
+	</state>
+	<state>
+		<index>3</index>
+		<click x="0.1077369" y="0.201147" />
+		<click x="0.117268" y="0.1952503" />
+	</state>
+	<state>
+		<index>4</index>
+		<click x="0.117268" y="0.1952503" />
+		<click x="0.3340614" y="0.6934153" />
+		<click x="0.5331786" y="0.61432" />
+	</state>
+	<state>
+		<index>5</index>
+		<click x="0.4308776" y="0.5753633" />
+		<click x="0.6463689" y="0.5789087" />
+	</state>
+	<state>
+		<index>6</index>
+		<click x="0.4065615" y="0.5753633" />
+		<click x="0.5412431" y="0.5647392" />
+	</state>
+	<state>
+		<index>7</index>
+		<click x="0.3891199" y="0.5859873" />
+		<click x="0.6156719" y="0.5682847" />
+	</state>
+	<state>
+		<index>9</index>
+		<click x="0.2475953" y="0.6084171" />
+	</state>
+	<state>
+		<index>10</index>
+		<click x="0.374475" y="0.6363953" />
+	</state>
+	<state>
+		<index>11</index>
+		<click x="0.5800011" y="0.5745982" />
+	</state>
+	<state>
+		<index>12</index>
+		<click x="0.4624216" y="0.5686952" />
+	</state>
+	<state>
+		<index>13</index>
+		<click x="0.6529038" y="0.5427262" />
+		<click x="0.4775321" y="0.5545258" />
+	</state>
+	<state>
+		<index>14</index>
+		<click x="0.6086295" y="0.5202963" />
+		<click x="0.2346025" y="0.7823634" />
+	</state>
+</states>
+
+
+
+</userdata>
+<userdata>
+<User name="G" sex="Male" age="1">
+	<Buddy skipped="0" lines="" />
+	<ScenesPlayed scene0="0" scene1="-1" scene2="-1" scene3="-1" />
+	<ScenesTime scene0="-1" scene1="-1" scene2="-1" scene3="-1" />
+	<Equipment description="FaceShield,FaceMask,HeadCover,Hood,Scrubs,Gown,ReusableApron,InnerGloves,OuterGloves,Boots" />
+	<Tracking baddonning="0" baddoffing="0" />
+</User>
+
+<session type="Title" user="G" trainer="Greg Trainer" hospital="Bedford Hospital" date="2/18/2016 10:24:54 PM" latitude="0" longitude="0"><run number="1"><quizQuestions><question text="What is the correct way to take off the gown?" time="0" correctAnswer="Doffing_Image_03" quizType="pre" answers="Doffing_Image_03,Doffing_Image_02" /><question text="What is the correct way to put on the gown?" time="0" correctAnswer="BD_on_GW_01" quizType="pre" answers="Bad_BorE_DonGW_1,BD_on_GW_01,Bad_EDonGW_1,BD_on_GW_02" /><question text="What is the correct way to take off the hood?" time="0" correctAnswer="Good EDofvGGHD -1" quizType="pre" answers="Bad EDofvGGHD -1,Good EDofvGGHD -1,Good_EDofvFSHD_1" /><question text="What is the correct way to put on inner gloves?" time="0" correctAnswer="BD_on_IG_02" quizType="pre" answers="BD_on_IG_02,BD_on_IG_02" /><question text="What is the correct way to take off the face mask?" time="0" correctAnswer="Good_EDofFM_1" quizType="pre" answers="Bad_EDofEM_1,Good_EDofFM_1" /><question text="What is the correct way to put on face mask?" time="0" correctAnswer="Good EDonFM -1" quizType="pre" answers="Good EDonFM -1" /><question text="What is the correct way to tak off the hood?" time="0" correctAnswer="Good EDofvGGHD -2" quizType="pre" answers="Good EDofvGGHD -2" /><question text="What is the correct way to put on the hood?" time="0" correctAnswer="Good EDonvFSHD -1" quizType="pre" answers="Good EDonvFSHD -1,Bad EDonvFSHD -1,Good EDonvFSHD -1" /><question text="What is the correct way to put on the gogles?" time="0" correctAnswer="Good EDonvGGGG -1" quizType="pre" answers="Bad EDonvGGGG -1,Bad EDonvGGGG -1,Bad EDonvGGGG -1,Bad EDonvGGGG -1,Good EDonvGGGG -1" /><question text="What is the correct way to take off the gogles?" time="0" correctAnswer="Good EDofvGGGG -1" quizType="pre" answers="Bad EDofvGGGG -1,Good EDofvGGGG -1,Bad EDofvGGGG -2" /></quizQuestions></run></session>
+<session type="Title" user="G" trainer="Greg Trainer" hospital="Bedford Hospital" date="2/18/2016 10:28:8 PM" latitude="0" longitude="0"><run number="1"><quizQuestions><question text="What is the correct way to take off the gown?" time="0" correctAnswer="Doffing_Image_03" quizType="pre" answers="Doffing_Image_03,Bad_BDofGW_1,Doffing_Image_02" /><question text="What is the correct way to put on the gown?" time="0" correctAnswer="BD_on_GW_01" quizType="pre" answers="Bad_BorE_DonGW_1,BD_on_GW_01,Bad_EDonGW_1,BD_on_GW_02" /><question text="What is the correct way to take off the hood?" time="0" correctAnswer="Good EDofvGGHD -1" quizType="pre" answers="Good EDofvGGHD -1,Good_EDofvFSHD_1" /><question text="What is the correct way to put on inner gloves?" time="0" correctAnswer="BD_on_IG_02" quizType="pre" answers="Bad_BorE_DonIG_2,BD_on_IG_02,BD_on_IG_02" /><question text="What is the correct way to take off the face mask?" time="0" correctAnswer="Good_EDofFM_1" quizType="pre" answers="Bad_EDofEM_1,Good_EDofFM_1" /><question text="What is the correct way to put on face mask?" time="0" correctAnswer="Good EDonFM -1" quizType="pre" answers="Bad EDonFM -1,Good EDonFM -1" /><question text="What is the correct way to tak off the hood?" time="0" correctAnswer="Good EDofvGGHD -2" quizType="pre" answers="Good EDofvGGHD -2" /><question text="What is the correct way to put on the hood?" time="0" correctAnswer="Good EDonvFSHD -1" quizType="pre" answers="Good EDonvFSHD -1,Bad EDonvFSHD -1,Good EDonvFSHD -1" /><question text="What is the correct way to put on the gogles?" time="0" correctAnswer="Good EDonvGGGG -1" quizType="pre" answers="Good EDonvGGGG -1" /><question text="What is the correct way to take off the gogles?" time="0" correctAnswer="Good EDofvGGGG -1" quizType="pre" answers="Good EDofvGGGG -1,Bad EDofvGGGG -2,Good EDofvGGGG -2" /></quizQuestions></run></session>
+<session type="Title" user="G" trainer="Greg Trainer" hospital="Bedford Hospital" date="2/18/2016 10:21:52 PM" latitude="0" longitude="0"><run number="1"><quizQuestions><question text="What is the correct way to take off the gown?" time="0" correctAnswer="Doffing_Image_03" quizType="pre" answers="Doffing_Image_03,Doffing_Image_02" /><question text="What is the correct way to put on the gown?" time="0" correctAnswer="BD_on_GW_01" quizType="pre" answers="BD_on_GW_01,BD_on_GW_02" /><question text="What is the correct way to take off the hood?" time="0" correctAnswer="Good EDofvGGHD -1" quizType="pre" answers="Bad EDofvGGHD -1,Good EDofvGGHD -1,Good_EDofvFSHD_1" /><question text="What is the correct way to put on inner gloves?" time="0" correctAnswer="BD_on_IG_02" quizType="pre" answers="BD_on_IG_02,BD_on_IG_02" /><question text="What is the correct way to take off the face mask?" time="0" correctAnswer="Good_EDofFM_1" quizType="pre" answers="Good_EDofFM_1" /><question text="What is the correct way to put on face mask?" time="0" correctAnswer="Good EDonFM -1" quizType="pre" answers="Bad EDonFM -1,Good EDonFM -1" /><question text="What is the correct way to tak off the hood?" time="0" correctAnswer="Good EDofvGGHD -2" quizType="pre" answers="Bad EDofvGGHD -1,Good EDofvGGHD -2" /><question text="What is the correct way to put on the hood?" time="0" correctAnswer="Good EDonvFSHD -1" quizType="pre" answers="Good EDonvFSHD -1,Bad EDonvFSHD -1,Good EDonvFSHD -1" /><question text="What is the correct way to put on the gogles?" time="0" correctAnswer="Good EDonvGGGG -1" quizType="pre" answers="Good EDonvGGGG -1" /><question text="What is the correct way to take off the gogles?" time="0" correctAnswer="Good EDofvGGGG -1" quizType="pre" answers="Bad EDofvGGGG -1,Good EDofvGGGG -1,Bad EDofvGGGG -2" /></quizQuestions></run></session>
+<session type="Title" user="" trainer="Hetty" hospital="MasangaHospital" date="02/17/2016 18:49:43" latitude="0" longitude="0"><run number="1"><quizQuestions><question text="What is the correct way to take off the face mask?" time="0" correctAnswer="Good_EDofFM_1" quizType="pre" answers="Bad_EDofEM_1,Good_EDofFM_1,Good_EDofFM_1" /><question text="What is the correct way to take off the gown?" time="0" correctAnswer="Doffing_Image_02" quizType="pre" answers="Doffing_Image_02,Doffing_Image_02" /><question text="What is the correct way to take off the hood?" time="0" correctAnswer="Good_EDofvFSHD_1" quizType="pre" answers="Bad_EDofvFSHD_1,Good_EDofvFSHD_1,Good_EDofvFSHD_1" /><question text="What is the correct way to put on inner gloves?" time="0" correctAnswer="BD_on_IG_02" quizType="pre" answers="Bad_BorE_DonIG_2,BD_on_IG_02,Bad_BorE_DonIG_2,BD_on_IG_02" /></quizQuestions></run></session>
+
+
+</userdata>
+<userdata>
+<User name="Greg Lukosek" sex="Male" age="1">
+	<Buddy skipped="0" lines="" />
+	<ScenesPlayed scene0="0" scene1="-1" scene2="-1" scene3="-1" />
+	<ScenesTime scene0="-1" scene1="-1" scene2="-1" scene3="-1" />
+	<Equipment description="FaceShield,FaceMask,HeadCover,Hood,Scrubs,Gown,ReusableApron,InnerGloves,OuterGloves,Boots" />
+	<Tracking baddonning="0" baddoffing="0" />
+</User>
+
+<session type="Title" user="Greg Lukosek" trainer="Greg Trainer" hospital="Bedford Hospital" date="1/18/2016 8:17:41 AM" latitude="0" longitude="0"><run number="1"><quizQuestions><question text="What is the correct way to take off the gown?" time="0" correctAnswer="Doffing_Image_03" quizType="pre" answers="Bad_BDofGW_2,Doffing_Image_03,Bad_BDofGW_1,Doffing_Image_02" /><question text="What is the correct way to put on the gown?" time="0" correctAnswer="BD_on_GW_01" quizType="pre" answers="BD_on_GW_01,BD_on_GW_02" /><question text="What is the correct way to take off the hood?" time="0" correctAnswer="Good EDofvGGHD -1" quizType="pre" answers="Good EDofvGGHD -1,Bad_EDofvFSHD_1,Good_EDofvFSHD_1" /><question text="What is the correct way to put on inner gloves?" time="0" correctAnswer="BD_on_IG_02" quizType="pre" answers="BD_on_IG_02,BD_on_IG_02" /><question text="What is the correct way to take off the face mask?" time="0" correctAnswer="Good_EDofFM_1" quizType="pre" answers="Good_EDofFM_1" /><question text="What is the correct way to put on face mask?" time="0" correctAnswer="Good EDonFM -1" quizType="pre" answers="Bad EDonFM -1,Good EDonFM -1" /><question text="What is the correct way to tak off the hood?" time="0" correctAnswer="Good EDofvGGHD -2" quizType="pre" answers="Bad EDofvGGHD -1,Good EDofvGGHD -2" /><question text="What is the correct way to put on the hood?" time="0" correctAnswer="Good EDonvFSHD -1" quizType="pre" answers="Bad EDonvFSHD -1,Good EDonvFSHD -1,Bad EDonvFSHD -1,Good EDonvFSHD -1" /><question text="What is the correct way to put on the gogles?" time="0" correctAnswer="Good EDonvGGGG -1" quizType="pre" answers="Good EDonvGGGG -1" /><question text="What is the correct way to take off the gogles?" time="0" correctAnswer="Good EDofvGGGG -1" quizType="pre" answers="Good EDofvGGGG -1,Good EDofvGGGG -2" /></quizQuestions></run></session>
+
+
+</userdata>
+
+</analytics>
